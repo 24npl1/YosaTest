@@ -1,0 +1,527 @@
+
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(155,191,170,1.00);
+	mix-blend-mode: normal;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .mindfulnesstabs {
+	position: absolute;
+	left: 21.849999999999998px;
+	top: 149.15px;
+	width: 315.4px;
+	height: 650.75px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .HomeBar {
+	position: absolute;
+	left: 556.6999999999999px;
+	top: 833.15px;
+	width: 323px;
+	height: 99.75px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .HomeBar .Group47404 {
+	position: absolute;
+	left: 122.55px;
+	top: 0px;
+	width: 77.89999999999999px;
+	height: 77.89999999999999px;
+	border-radius: 53.199999999999996px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .HomeBar .Group47404 .background {
+	position: absolute;
+	left: 47.5%;
+	bottom: 0px;
+	transform: translate(-50%, 0);
+	width: 77.89999999999999px;
+	height: 77.89999999999999px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 53.199999999999996px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .HomeBar .Group47404 .background_1 {
+	position: absolute;
+	left: 47.49971715415396%;
+	bottom: 5.33447265625px;
+	transform: translate(-50%, 0);
+	width: 67.22873535156249px;
+	height: 67.22919921875px;
+	background: rgba(255,221,100,1.00);
+	border-radius: 53.199999999999996px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .HomeBar .ButtonHome {
+	position: absolute;
+	left: 146.29999999999998px;
+	top: 19.95px;
+	width: 30.4px;
+	height: 32.3px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .HomeBar .ButtonHome .Home {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 30.4px;
+	height: 32.3px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .HomeBar .ButtonHome .Home .Rectangle2 {
+	position: absolute;
+	left: 2.8499999999999996px;
+	top: 2.375px;
+	width: 30.4px;
+	height: 30.4px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 {
+	position: absolute;
+	left: 128.25px;
+	top: 219.45px;
+	width: 1308.1499999999999px;
+	height: 553.85px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group21 {
+	position: absolute;
+	left: 0.95px;
+	top: 5.699999999999999px;
+	width: 237.5px;
+	height: 237.5px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group21 .Rectangle797 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 237.5px;
+	height: 237.5px;
+	border-radius: 38px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group21 .Rectangle798 {
+	position: absolute;
+	left: 27.097265625px;
+	top: 29.3015625px;
+	width: 184.89931640625px;
+	height: 175.81123046874998px;
+	background: rgba(238,238,238,1.00);
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group21 .AnatomyofaPanicAttack {
+	position: absolute;
+	left: 42.75px;
+	top: 57px;
+	width: 164.35px;
+	height: 145.35px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 26.599999999999998px;
+	font-weight: 700;
+	line-height: 33.382999420166016px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group47405 {
+	position: absolute;
+	left: 989.9px;
+	top: 0px;
+	width: 237.5px;
+	height: 237.5px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group47405 .Rectangle815 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 237.5px;
+	height: 237.5px;
+	border-radius: 38px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group47405 .Rectangle816 {
+	position: absolute;
+	left: 27.097265625px;
+	top: 29.3015625px;
+	width: 184.89931640625px;
+	height: 175.81123046874998px;
+	background: rgba(238,238,238,1.00);
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group47405 .ReachOutNotebookTrivia {
+	position: absolute;
+	left: 37.05px;
+	top: 62.699999999999996px;
+	width: 165.29999999999998px;
+	height: 110.19999999999999px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 26.599999999999998px;
+	font-weight: 700;
+	line-height: 33.382999420166016px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group23 {
+	position: absolute;
+	left: 0px;
+	top: 315.4px;
+	width: 237.5px;
+	height: 237.5px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group23 .Rectangle783 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 237.5px;
+	height: 237.5px;
+	border-radius: 38px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group23 .Rectangle784 {
+	position: absolute;
+	left: 27.097265625px;
+	top: 29.3015625px;
+	width: 184.89931640625px;
+	height: 175.81123046874998px;
+	background: rgba(238,238,238,1.00);
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group23 .PiecingitTogetherWhatmakesyouyou {
+	position: absolute;
+	left: 38px;
+	top: 50.349999999999994px;
+	width: 165.29999999999998px;
+	height: 75.05px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 26.599999999999998px;
+	font-weight: 700;
+	line-height: 33.382999420166016px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group24 {
+	position: absolute;
+	left: 320.15px;
+	top: 315.4px;
+	width: 237.5px;
+	height: 237.5px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group24 .Rectangle809 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 237.5px;
+	height: 237.5px;
+	border-radius: 38px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group24 .Rectangle810 {
+	position: absolute;
+	left: 23.909570312499998px;
+	top: 29.3015625px;
+	width: 184.89931640625px;
+	height: 175.81123046874998px;
+	background: rgba(238,238,238,1.00);
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group24 .ZenGardenStressReliefStrategies {
+	position: absolute;
+	left: 31.349999999999998px;
+	top: 50.349999999999994px;
+	width: 169.1px;
+	height: 79.8px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 26.599999999999998px;
+	font-weight: 700;
+	line-height: 33.382999420166016px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group25 {
+	position: absolute;
+	left: 645.05px;
+	top: 5.699999999999999px;
+	width: 237.5px;
+	height: 237.5px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group25 .Rectangle811 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 237.5px;
+	height: 237.5px;
+	border-radius: 38px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group25 .Rectangle812 {
+	position: absolute;
+	left: 27.097265625px;
+	top: 29.3015625px;
+	width: 184.89931640625px;
+	height: 175.81123046874998px;
+	background: rgba(238,238,238,1.00);
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group25 .DestinationLife {
+	position: absolute;
+	left: 27.549999999999997px;
+	top: 63.65px;
+	width: 184.89931640625px;
+	height: 109.49677734375px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 26.599999999999998px;
+	font-weight: 700;
+	line-height: 33.382999420166016px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group20 {
+	position: absolute;
+	left: 318.25px;
+	top: 9.5px;
+	width: 237.5px;
+	height: 237.5px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group20 .Rectangle777 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 237.5px;
+	height: 237.5px;
+	border-radius: 38px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group20 .Rectangle777_1 {
+	position: absolute;
+	left: 27.097265625px;
+	top: 29.3015625px;
+	width: 184.89931640625px;
+	height: 175.81123046874998px;
+	background: rgba(238,238,238,1.00);
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group20 .GettingUnstuckMakingaSafetyPlan {
+	position: absolute;
+	left: 36.1px;
+	top: 53.199999999999996px;
+	width: 168.15px;
+	height: 109.25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 26.599999999999998px;
+	font-weight: 700;
+	line-height: 33.382999420166016px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group22 {
+	position: absolute;
+	left: 645.05px;
+	top: 316.34999999999997px;
+	width: 237.5px;
+	height: 237.5px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group22 .Rectangle785 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 237.5px;
+	height: 237.5px;
+	border-radius: 38px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group22 .Rectangle786 {
+	position: absolute;
+	left: 27.097265625px;
+	top: 29.3015625px;
+	width: 184.89931640625px;
+	height: 175.81123046874998px;
+	background: rgba(238,238,238,1.00);
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group22 .MINDTrivia {
+	position: absolute;
+	left: 22.799999999999997px;
+	top: 76px;
+	width: 192.85px;
+	height: 107.35px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(17,17,17,1.00);
+	font-family: Mulish;
+	font-size: 26.599999999999998px;
+	font-weight: 700;
+	line-height: 33.382999420166016px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group19 {
+	position: absolute;
+	left: 989.9px;
+	top: 316.34999999999997px;
+	width: 237.5px;
+	height: 237.5px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group19 .Rectangle813 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 237.5px;
+	height: 237.5px;
+	border-radius: 38px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group19 .Rectangle814 {
+	position: absolute;
+	left: 27.097265625px;
+	top: 29.3015625px;
+	width: 184.89931640625px;
+	height: 175.81123046874998px;
+	background: rgba(238,238,238,1.00);
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group19 .MINDeLearning {
+	position: absolute;
+	left: 26.599999999999998px;
+	top: 76px;
+	width: 184.89931640625px;
+	height: 143.42587890625px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 26.599999999999998px;
+	font-weight: 700;
+	line-height: 33.382999420166016px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group23_1 {
+	position: absolute;
+	left: 1334.75px;
+	top: 316.34999999999997px;
+	width: 237.5px;
+	height: 237.5px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group23_1 .Rectangle813_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 237.5px;
+	height: 237.5px;
+	border-radius: 38px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group23_1 .Rectangle814_1 {
+	position: absolute;
+	left: 27.097265625px;
+	top: 29.3015625px;
+	width: 184.89931640625px;
+	height: 175.81123046874998px;
+	background: rgba(238,238,238,1.00);
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group23_1 .MakeaWish {
+	position: absolute;
+	left: 38.949999999999996px;
+	top: 69.35px;
+	width: 162.45px;
+	height: 143.45px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 26.599999999999998px;
+	font-weight: 700;
+	line-height: 33.382999420166016px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group24_1 {
+	position: absolute;
+	left: 1335.7px;
+	top: 0px;
+	width: 237.5px;
+	height: 237.5px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group24_1 .Rectangle813_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 237.5px;
+	height: 237.5px;
+	border-radius: 38px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group24_1 .Rectangle814_2 {
+	position: absolute;
+	left: 27.097265625px;
+	top: 29.3015625px;
+	width: 184.89931640625px;
+	height: 175.81123046874998px;
+	background: rgba(238,238,238,1.00);
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group24_1 .QuoteBloom {
+	position: absolute;
+	left: 26.599999999999998px;
+	top: 76px;
+	width: 184.89931640625px;
+	height: 143.42587890625px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 26.599999999999998px;
+	font-weight: 700;
+	line-height: 33.382999420166016px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group26 {
+	position: absolute;
+	left: 1680.55px;
+	top: 0px;
+	width: 237.5px;
+	height: 237.5px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group26 .Rectangle813_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 237.5px;
+	height: 237.5px;
+	border-radius: 38px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group26 .Rectangle814_3 {
+	position: absolute;
+	left: 27.097265625px;
+	top: 29.3015625px;
+	width: 184.89931640625px;
+	height: 175.81123046874998px;
+	background: rgba(238,238,238,1.00);
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Group26 .StressMeLess {
+	position: absolute;
+	left: 38px;
+	top: 76px;
+	width: 160.54999999999998px;
+	height: 143.45px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 26.599999999999998px;
+	font-weight: 700;
+	line-height: 33.382999420166016px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Frame21 .Arrow2 {
+	position: absolute;
+	left: 1227.3999999999999px;
+	top: 276.45px;
+	width: 40.375px;
+	height: 0px;
+}
+.ThoughtsandEmotionsInteractiveGames_ThoughtsandEmotionsInteractiveGames .Rectangle783_1 {
+	position: absolute;
+	left: 1244.5px;
+	top: 0px;
+	width: 191.89999999999998px;
+	height: 171px;
+	object-fit: cover;
+	overflow: hidden;
+}

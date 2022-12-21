@@ -1,0 +1,679 @@
+
+.HomePagefirstversion_6_HomePagefirstversion {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+.HomePagefirstversion_6_HomePagefirstversion .HelloAndrew {
+	position: absolute;
+	left: 92.14999999999999px;
+	top: 87.39999999999999px;
+	width: 299.25px;
+	height: 33.25px;
+	color: rgba(122,166,139,1.00);
+	font-family: Lato;
+	font-size: 45.599999999999994px;
+	font-weight: 800;
+	line-height: 22.799999999999997px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Affirmations {
+	position: absolute;
+	left: 11.399999999999999px;
+	top: 171px;
+	width: 646px;
+	height: 880.65px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Affirmations .Frame8 {
+	position: absolute;
+	left: 81.7px;
+	top: 16.15px;
+	width: 501.59999999999997px;
+	height: 256.5px;
+	display: flex;
+	padding-top: 28.5px;
+	padding-right: 47.5px;
+	padding-bottom: 28.5px;
+	padding-left: 47.5px;
+	box-sizing: border-box;
+	background: rgba(255,235,163,1.00);
+	border-radius: 40.85px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Affirmations .Frame8 .Iamgratefultohavepeopleinmylifewhosupportme {
+	position: relative;
+	flex: none;
+	margin-right: 3.8px;
+	width: 401.84999999999997px;
+	height: 162.45px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Lato;
+	font-size: 28.5px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Affirmations .Frame6 {
+	position: absolute;
+	left: 78.85px;
+	top: 355.3px;
+	width: 501.59999999999997px;
+	height: 253.64999999999998px;
+	display: flex;
+	padding-top: 5.699999999999999px;
+	padding-right: 47.5px;
+	padding-bottom: 5.699999999999999px;
+	padding-left: 47.5px;
+	box-sizing: border-box;
+	background: rgba(255,235,163,1.00);
+	border-radius: 40.85px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Affirmations .Frame6 .Iamcontinuallyevolvingintoastrongerversionofmyself {
+	position: relative;
+	flex: none;
+	margin-right: 3.8px;
+	width: 405.65px;
+	height: 203.29999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Lato;
+	font-size: 28.5px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Affirmations .Frame7 {
+	position: absolute;
+	left: 78.85px;
+	top: 1578.8999999999999px;
+	width: 501.59999999999997px;
+	height: 199.5px;
+	display: flex;
+	padding-top: 5.699999999999999px;
+	padding-right: 18.05px;
+	padding-bottom: 5.699999999999999px;
+	padding-left: 15.2px;
+	box-sizing: border-box;
+	background: rgba(255,235,163,1.00);
+	border-radius: 40.85px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Affirmations .Frame7 .Iamonabeautifuljourneytoabetterlife {
+	position: relative;
+	flex: none;
+	margin-right: 3.8px;
+	width: 456.95px;
+	height: 171.95px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Lato;
+	font-size: 28.5px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Affirmations .Frame9 {
+	position: absolute;
+	left: 78.85px;
+	top: 1302.45px;
+	width: 501.59999999999997px;
+	height: 193.79999999999998px;
+	display: flex;
+	padding-top: 5.699999999999999px;
+	padding-right: 18.05px;
+	padding-bottom: 5.699999999999999px;
+	padding-left: 15.2px;
+	box-sizing: border-box;
+	background: rgba(255,235,163,1.00);
+	border-radius: 40.85px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Affirmations .Frame9 .Iamdoingmybestandthatisalwaysenough {
+	position: relative;
+	flex: none;
+	margin-right: 3.8px;
+	width: 462.65px;
+	height: 169.1px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Lato;
+	font-size: 28.5px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Affirmations .Frame10 {
+	position: absolute;
+	left: 81.7px;
+	top: 963.3px;
+	width: 498.75px;
+	height: 256.5px;
+	display: flex;
+	padding-top: 5.699999999999999px;
+	padding-bottom: 5.699999999999999px;
+	padding-left: 15.2px;
+	box-sizing: border-box;
+	background: rgba(255,235,163,1.00);
+	border-radius: 40.85px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Affirmations .Frame10 .IamincontrolofmylifeandIchoosetoletgoofnegativebeliefs {
+	position: relative;
+	flex: none;
+	margin-right: 3.8px;
+	width: 457.9px;
+	height: 169.1px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Lato;
+	font-size: 30.4px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Affirmations .Frame11 {
+	position: absolute;
+	left: 81.7px;
+	top: 691.6px;
+	width: 498.75px;
+	height: 189.04999999999998px;
+	display: flex;
+	padding-top: 5.699999999999999px;
+	padding-right: 18.05px;
+	padding-bottom: 5.699999999999999px;
+	padding-left: 15.2px;
+	box-sizing: border-box;
+	background: rgba(255,235,163,1.00);
+	border-radius: 40.85px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Affirmations .Frame11 .Iamproudofmyselfforgettingthisfar {
+	position: relative;
+	flex: none;
+	margin-right: 3.8px;
+	width: 458.84999999999997px;
+	height: 44.65px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Lato;
+	font-size: 34.199999999999996px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Rectangle781 {
+	position: absolute;
+	left: 1143.8px;
+	top: 0px;
+	width: 191.89999999999998px;
+	height: 171px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 {
+	position: absolute;
+	left: 673.55px;
+	top: 73.14999999999999px;
+	width: 737.1999999999999px;
+	height: 978.5px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .ThoughtsandEmotions {
+	position: absolute;
+	left: 0px;
+	top: 114.94999999999999px;
+	width: 372.4px;
+	height: 38px;
+	color: rgba(89,132,106,1.00);
+	font-family: Mulish;
+	font-size: 30.4px;
+	font-weight: 700;
+	line-height: 38.1519998550415px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Other {
+	position: absolute;
+	left: 0px;
+	top: 671.65px;
+	width: 157.7px;
+	height: 36.1px;
+	color: rgba(89,132,106,1.00);
+	font-family: Roboto;
+	font-size: 30.4px;
+	font-weight: 500;
+	line-height: 35.625px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .SleepMeditation {
+	position: absolute;
+	left: 0px;
+	top: 399px;
+	width: 316.34999999999997px;
+	height: 25.65px;
+	color: rgba(89,132,106,1.00);
+	font-family: Mulish;
+	font-size: 30.4px;
+	font-weight: 700;
+	line-height: 38.1519998550415px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help {
+	position: absolute;
+	left: 28.5px;
+	top: 180.5px;
+	width: 180.5px;
+	height: 190px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help .Rectangle1952 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 180.5px;
+	height: 133px;
+	background: rgba(248,248,248,1.00);
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help .Rectangle1953 {
+	position: absolute;
+	left: 0px;
+	top: 133px;
+	width: 180.5px;
+	height: 57px;
+	background: rgba(195,215,203,1.00);
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help .MoodTracker {
+	position: absolute;
+	left: 46.55px;
+	top: 148.2px;
+	width: 88.35px;
+	height: 17.099999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 14.25px;
+	font-weight: 500;
+	line-height: 16.69921875px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_1 {
+	position: absolute;
+	left: 247.95px;
+	top: 180.5px;
+	width: 180.5px;
+	height: 190px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_1 .Rectangle1952_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 180.5px;
+	height: 133px;
+	background: rgba(248,248,248,1.00);
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_1 .Rectangle1953_1 {
+	position: absolute;
+	left: 0px;
+	top: 133px;
+	width: 180.5px;
+	height: 57px;
+	background: rgba(195,215,203,1.00);
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_1 .Journaling {
+	position: absolute;
+	left: 56.05px;
+	top: 148.2px;
+	width: 68.39999999999999px;
+	height: 17.099999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 14.25px;
+	font-weight: 500;
+	line-height: 16.69921875px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_2 {
+	position: absolute;
+	left: 467.4px;
+	top: 180.5px;
+	width: 180.5px;
+	height: 190px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_2 .Rectangle1952_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 180.5px;
+	height: 133px;
+	background: rgba(248,248,248,1.00);
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_2 .Rectangle1953_2 {
+	position: absolute;
+	left: 0px;
+	top: 133px;
+	width: 180.5px;
+	height: 57px;
+	background: rgba(195,215,203,1.00);
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_2 .CBTFillouts {
+	position: absolute;
+	left: 52.25px;
+	top: 148.2px;
+	width: 76.95px;
+	height: 17.099999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 14.25px;
+	font-weight: 500;
+	line-height: 16.69921875px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_3 {
+	position: absolute;
+	left: 686.85px;
+	top: 180.5px;
+	width: 180.5px;
+	height: 190px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_3 .Rectangle1952_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 180.5px;
+	height: 133px;
+	background: rgba(248,248,248,1.00);
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_3 .Rectangle1953_3 {
+	position: absolute;
+	left: 0px;
+	top: 133px;
+	width: 180.5px;
+	height: 57px;
+	background: rgba(195,215,203,1.00);
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_3 .Mindfulness {
+	position: absolute;
+	left: 50.349999999999994px;
+	top: 148.2px;
+	width: 79.8px;
+	height: 17.099999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 14.25px;
+	font-weight: 500;
+	line-height: 16.69921875px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_4 {
+	position: absolute;
+	left: 28.5px;
+	top: 453.15px;
+	width: 180.5px;
+	height: 190px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_4 .Rectangle1952_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 180.5px;
+	height: 133px;
+	background: rgba(248,248,248,1.00);
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_4 .Rectangle1953_4 {
+	position: absolute;
+	left: 0px;
+	top: 133px;
+	width: 180.5px;
+	height: 57px;
+	background: rgba(195,215,203,1.00);
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_4 .SleepLog {
+	position: absolute;
+	left: 58.9px;
+	top: 148.2px;
+	width: 63.65px;
+	height: 17.099999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 14.25px;
+	font-weight: 500;
+	line-height: 16.69921875px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_5 {
+	position: absolute;
+	left: 247.95px;
+	top: 453.15px;
+	width: 180.5px;
+	height: 190px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_5 .Rectangle1952_5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 180.5px;
+	height: 133px;
+	background: rgba(248,248,248,1.00);
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_5 .Rectangle1953_5 {
+	position: absolute;
+	left: 0px;
+	top: 133px;
+	width: 180.5px;
+	height: 57px;
+	background: rgba(195,215,203,1.00);
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_5 .Meditation {
+	position: absolute;
+	left: 56.05px;
+	top: 148.2px;
+	width: 69.35px;
+	height: 17.099999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 14.25px;
+	font-weight: 500;
+	line-height: 16.69921875px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_6 {
+	position: absolute;
+	left: 28.5px;
+	top: 737.1999999999999px;
+	width: 180.5px;
+	height: 190px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_6 .Rectangle1952_6 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 180.5px;
+	height: 133px;
+	background: rgba(248,248,248,1.00);
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_6 .Rectangle1953_6 {
+	position: absolute;
+	left: 0px;
+	top: 133px;
+	width: 180.5px;
+	height: 57px;
+	background: rgba(195,215,203,1.00);
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_6 .SubstanceLog {
+	position: absolute;
+	left: 42.75px;
+	top: 148.2px;
+	width: 95px;
+	height: 17.099999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 14.25px;
+	font-weight: 500;
+	line-height: 16.69921875px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_7 {
+	position: absolute;
+	left: 247.95px;
+	top: 736.25px;
+	width: 180.5px;
+	height: 190px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_7 .Rectangle1952_7 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 180.5px;
+	height: 133px;
+	background: rgba(248,248,248,1.00);
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_7 .Rectangle1953_7 {
+	position: absolute;
+	left: 0px;
+	top: 133px;
+	width: 180.5px;
+	height: 57px;
+	background: rgba(195,215,203,1.00);
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_7 .SafetyPlan {
+	position: absolute;
+	left: 54.15px;
+	top: 148.2px;
+	width: 73.14999999999999px;
+	height: 17.099999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 14.25px;
+	font-weight: 500;
+	line-height: 16.69921875px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_8 {
+	position: absolute;
+	left: 467.4px;
+	top: 736.25px;
+	width: 180.5px;
+	height: 190px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_8 .Rectangle1952_8 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 180.5px;
+	height: 133px;
+	background: rgba(248,248,248,1.00);
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_8 .Rectangle1953_8 {
+	position: absolute;
+	left: 0px;
+	top: 133px;
+	width: 180.5px;
+	height: 57px;
+	background: rgba(195,215,203,1.00);
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_8 .Medication {
+	position: absolute;
+	left: 54.15px;
+	top: 148.2px;
+	width: 72.2px;
+	height: 17.099999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 14.25px;
+	font-weight: 500;
+	line-height: 16.69921875px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_9 {
+	position: absolute;
+	left: 686.85px;
+	top: 736.25px;
+	width: 180.5px;
+	height: 190px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_9 .Rectangle1952_9 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 180.5px;
+	height: 133px;
+	background: rgba(248,248,248,1.00);
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_9 .Rectangle1953_9 {
+	position: absolute;
+	left: 0px;
+	top: 133px;
+	width: 180.5px;
+	height: 57px;
+	background: rgba(195,215,203,1.00);
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_9 .Help_10 {
+	position: absolute;
+	left: 76px;
+	top: 148.2px;
+	width: 29.45px;
+	height: 17.099999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 14.25px;
+	font-weight: 500;
+	line-height: 16.69921875px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_11 {
+	position: absolute;
+	left: 467.4px;
+	top: 457.9px;
+	width: 180.5px;
+	height: 190px;
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_11 .Rectangle1952_10 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 180.5px;
+	height: 133px;
+	background: rgba(248,248,248,1.00);
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_11 .Rectangle1953_10 {
+	position: absolute;
+	left: 0px;
+	top: 133px;
+	width: 180.5px;
+	height: 57px;
+	background: rgba(195,215,203,1.00);
+}
+.HomePagefirstversion_6_HomePagefirstversion .Frame18 .Help_11 .GuidedYoga {
+	position: absolute;
+	left: 50.349999999999994px;
+	top: 148.2px;
+	width: 80.75px;
+	height: 17.099999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 14.25px;
+	font-weight: 500;
+	line-height: 16.69921875px;
+}

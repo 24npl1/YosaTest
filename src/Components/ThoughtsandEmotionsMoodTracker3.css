@@ -1,0 +1,343 @@
+
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(155,191,170,1.00);
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .Slider {
+	position: absolute;
+	left: 606.1px;
+	top: 600.4px;
+	width: 220.39999999999998px;
+	height: 34.199999999999996px;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .Slider .Background {
+	position: absolute;
+	left: 1.9px;
+	top: 13.299999999999999px;
+	width: 218.5px;
+	height: 7.6px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 3.8px;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .Slider .Adjustment {
+	position: absolute;
+	left: 1.9px;
+	top: 13.299999999999999px;
+	width: 119.69999999999999px;
+	height: 7.6px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+	background: rgba(214,157,157,1.00);
+	border-radius: 3.8px;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .Slider .Adjustment .Spacer {
+	position: relative;
+	flex: none;
+	margin-right: 96.89999999999999px;
+	width: 0px;
+	height: 7.6px;
+	background: rgba(0,0,0,1.00);
+	border-radius: 3.8px;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .Slider .Adjustment .Handle {
+	position: relative;
+	flex: none;
+	margin-right: 96.89999999999999px;
+	width: 22.799999999999997px;
+	height: 22.799999999999997px;
+	background: rgba(0,0,0,1.00);
+	border-radius: 50%;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .Imokay {
+	position: absolute;
+	left: 646px;
+	top: 491.15px;
+	width: 134.9px;
+	height: 37.05px;
+	color: rgba(214,157,157,1.00);
+	font-family: Montserrat;
+	font-size: 30.4px;
+	font-weight: 700;
+	line-height: 37.05759944915771px;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .Howareyoufeelingtoday {
+	position: absolute;
+	left: 499.7px;
+	top: 71.25px;
+	width: 437px;
+	height: 37.05px;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 30.4px;
+	font-weight: 700;
+	line-height: 37.05759944915771px;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .Emoji1 {
+	position: absolute;
+	left: 598.5px;
+	top: 181.45px;
+	width: 237.5px;
+	height: 237.5px;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .Emoji1 .HeadYellow {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .Emoji1 .HeadYellow .Vector {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .Emoji1 .HeadYellow .Nose {
+	position: absolute;
+	left: 112.83476562499999px;
+	top: 92.57861328125px;
+	width: 2.72734375%;
+	height: 16.51171875%;
+	mix-blend-mode: soft-light;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .Emoji1 .BlushCheeks {
+	visibility: hidden;
+	position: absolute;
+	left: 35.25390625px;
+	top: 122.4609375px;
+	width: 69.53125%;
+	height: 12.5%;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .Emoji1 .BlushCheeks .L {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 30.337078651685395%;
+	height: 100%;
+	mix-blend-mode: soft-light;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .Emoji1 .BlushCheeks .R {
+	position: absolute;
+	left: 115.0390625px;
+	top: 0px;
+	width: 30.337078651685395%;
+	height: 100%;
+	mix-blend-mode: soft-light;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .Emoji1 .SweatDrop {
+	visibility: hidden;
+	position: absolute;
+	left: 35.25390625px;
+	top: 20.43798828125px;
+	width: 9.87578125%;
+	height: 17.54296875%;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .Emoji1 .SweatDrop .SweatDrop_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .Emoji1 .MouthPlain {
+	position: absolute;
+	left: 44.53125px;
+	top: 131.73828125px;
+	width: 62.5%;
+	height: 39.0625%;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .Emoji1 .MouthPlain .Group {
+	position: absolute;
+	left: 25.9765625px;
+	top: 29.6875px;
+	width: 97.140283203125px;
+	height: 20.41015625px;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .Emoji1 .MouthPlain .Group .Vector_1 {
+	position: absolute;
+	left: 20.41015625px;
+	top: 14.84375px;
+	width: 57.30275912785201%;
+	height: 27.27272727272727%;
+	mix-blend-mode: soft-light;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .Emoji1 .MouthPlain .Group .Vector_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 26.66363636363636%;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .Emoji1 .EyesPlain {
+	position: absolute;
+	left: 37.109375px;
+	top: 70.5078125px;
+	width: 68.328125%;
+	height: 23.41015625%;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .Emoji1 .EyesPlain .R_1 {
+	position: absolute;
+	left: 113.18359375px;
+	top: 0px;
+	width: 29.727875600274412%;
+	height: 100.11680293675956%;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .Emoji1 .EyesPlain .R_1 .Vector_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .Emoji1 .EyesPlain .R_1 .Vector_4 {
+	position: absolute;
+	left: 12.055908203125px;
+	top: 9.19755859375px;
+	width: 17.599999999999998%;
+	height: 15.253333333333332%;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .Emoji1 .EyesPlain .R_1 .Vector_5 {
+	position: absolute;
+	left: 14.287109375px;
+	top: 14.287109375px;
+	width: 40.95576923076923%;
+	height: 35.49333333333333%;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .Emoji1 .EyesPlain .L_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 29.727875600274412%;
+	height: 100.11680293675956%;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .Emoji1 .EyesPlain .L_1 .Vector_6 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .Emoji1 .EyesPlain .L_1 .Vector_7 {
+	position: absolute;
+	left: 12.056835937499999px;
+	top: 9.19755859375px;
+	width: 17.599999999999998%;
+	height: 15.253333333333332%;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .Emoji1 .EyesPlain .L_1 .Vector_8 {
+	position: absolute;
+	left: 14.287109375px;
+	top: 14.287109375px;
+	width: 40.95384615384615%;
+	height: 35.49333333333333%;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .Emoji1 .Halo {
+	visibility: hidden;
+	position: absolute;
+	left: -5.56640625px;
+	top: -12.98828125px;
+	width: 104.6875%;
+	height: 17.1875%;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .Emoji1 .Halo .Vector_9 {
+	position: absolute;
+	left: 1.0501953124999999px;
+	top: 1.0390625px;
+	width: 99.25373134328358%;
+	height: 95.45454545454545%;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .Emoji1 .Halo .Vector_10 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .Rectangle1942 {
+	position: absolute;
+	left: 588.05px;
+	top: 684.9499999999999px;
+	width: 253.64999999999998px;
+	height: 97.85px;
+	background: rgba(0,0,0,0.58);
+	border-radius: 47.5px;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .SUBMIT {
+	position: absolute;
+	left: 674.5px;
+	top: 723.9px;
+	width: 84.55px;
+	height: 19.95px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 22.799999999999997px;
+	font-weight: 500;
+	line-height: 26.71875px;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .HomeBar {
+	position: absolute;
+	left: 556.6999999999999px;
+	top: 833.15px;
+	width: 323px;
+	height: 99.75px;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .HomeBar .Group47397 {
+	position: absolute;
+	left: 122.55px;
+	top: 0px;
+	width: 77.89999999999999px;
+	height: 77.89999999999999px;
+	border-radius: 53.199999999999996px;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .HomeBar .Group47397 .background {
+	position: absolute;
+	left: 47.5%;
+	bottom: 0px;
+	transform: translate(-50%, 0);
+	width: 77.89999999999999px;
+	height: 77.89999999999999px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 53.199999999999996px;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .HomeBar .Group47397 .background_1 {
+	position: absolute;
+	left: 47.50113138338414%;
+	bottom: 5.33447265625px;
+	transform: translate(-50%, 0);
+	width: 67.22919921875px;
+	height: 67.22919921875px;
+	background: rgba(255,221,100,1.00);
+	border-radius: 53.199999999999996px;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .HomeBar .ButtonHome {
+	position: absolute;
+	left: 146.29999999999998px;
+	top: 19.95px;
+	width: 30.4px;
+	height: 32.3px;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .HomeBar .ButtonHome .Home {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 30.4px;
+	height: 32.3px;
+}
+.ThoughtsandEmotionsMoodTracker3_ThoughtsandEmotionsMoodTracker3 .HomeBar .ButtonHome .Home .Rectangle2 {
+	position: absolute;
+	left: 2.8499999999999996px;
+	top: 2.375px;
+	width: 30.4px;
+	height: 30.4px;
+}

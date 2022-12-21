@@ -1,0 +1,1398 @@
+
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(155,191,170,1.00);
+	mix-blend-mode: normal;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle {
+	position: absolute;
+	left: 624.15px;
+	top: 128.25px;
+	width: 188.42841796874998px;
+	height: 190px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle .Rectangle36 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 188.42841796874998px;
+	height: 190px;
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle .entrydate {
+	position: absolute;
+	left: 21.4677734375px;
+	top: 11.323925781249999px;
+	width: 98.7443359375px;
+	height: 11.13466796875px;
+	color: rgba(17,17,17,1.00);
+	font-family: Mulish;
+	font-size: 11.399999999999999px;
+	font-weight: 700;
+	line-height: 14.306999492645263px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle .Rectangle776 {
+	position: absolute;
+	left: 24.9560546875px;
+	top: 80.52919921875px;
+	width: 145.21640625px;
+	height: 75.49716796874999px;
+	background: rgba(238,238,238,1.00);
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle .Todaywasacrazyday {
+	position: absolute;
+	left: 34.816015625px;
+	top: 82.6091796875px;
+	width: 134.70146484375px;
+	height: 80.81308593749999px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 12.825px;
+	font-weight: 400;
+	line-height: 16.09537420272827px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle .ButtonExploreActive {
+	position: absolute;
+	left: 99.75px;
+	top: 36.1px;
+	width: 86.45px;
+	height: 34.199999999999996px;
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle .ButtonExploreActive .Group7 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 86.45px;
+	height: 34.199999999999996px;
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle .ButtonExploreActive .Group7 .Frame5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 86.45px;
+	height: 34.199999999999996px;
+	display: flex;
+	padding-top: 5.699999999999999px;
+	padding-right: 18.05px;
+	padding-bottom: 5.699999999999999px;
+	padding-left: 15.2px;
+	box-sizing: border-box;
+	background: rgba(255,221,100,1.00);
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle .ButtonExploreActive .Group7 .Frame5 .Unprompted {
+	position: relative;
+	flex: none;
+	margin-right: 3.8px;
+	width: 53.199999999999996px;
+	height: 22.799999999999997px;
+	color: rgba(0,0,0,1.00);
+	font-family: Lato;
+	font-size: 9.5px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_1 {
+	position: absolute;
+	left: 383.79999999999995px;
+	top: 127.3px;
+	width: 190px;
+	height: 190px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_1 .Rectangle36_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 190px;
+	height: 190px;
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_1 .entrydate_1 {
+	position: absolute;
+	left: 19.1001953125px;
+	top: 11.323925781249999px;
+	width: 99.56816406249999px;
+	height: 11.13466796875px;
+	color: rgba(17,17,17,1.00);
+	font-family: Mulish;
+	font-size: 11.399999999999999px;
+	font-weight: 700;
+	line-height: 14.306999492645263px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_1 .Rectangle776_1 {
+	position: absolute;
+	left: 25.167578125px;
+	top: 80.52919921875px;
+	width: 146.42802734375px;
+	height: 75.49716796874999px;
+	background: rgba(238,238,238,1.00);
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_1 .Somethingthatmademehappytodaywas {
+	position: absolute;
+	left: 35.10732421875px;
+	top: 82.6091796875px;
+	width: 135.82587890624998px;
+	height: 80.81308593749999px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 12.825px;
+	font-weight: 400;
+	line-height: 16.09537420272827px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_1 .ButtonExploreActive_1 {
+	position: absolute;
+	left: 104.42021484374999px;
+	top: 36.491503906249996px;
+	width: 75.05px;
+	height: 34.199999999999996px;
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_1 .ButtonExploreActive_1 .Group7_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 75.05px;
+	height: 34.199999999999996px;
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_1 .ButtonExploreActive_1 .Group7_1 .Frame5_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 75.05px;
+	height: 34.199999999999996px;
+	display: flex;
+	padding-top: 5.699999999999999px;
+	padding-right: 18.05px;
+	padding-bottom: 5.699999999999999px;
+	padding-left: 15.2px;
+	box-sizing: border-box;
+	background: rgba(255,221,100,1.00);
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_1 .ButtonExploreActive_1 .Group7_1 .Frame5_1 .Prompted {
+	position: relative;
+	flex: none;
+	margin-right: 3.8px;
+	width: 41.8px;
+	height: 22.799999999999997px;
+	color: rgba(0,0,0,1.00);
+	font-family: Lato;
+	font-size: 9.5px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_2 {
+	position: absolute;
+	left: 1102.95px;
+	top: 127.3px;
+	width: 190px;
+	height: 190px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_2 .Rectangle36_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 190px;
+	height: 190px;
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_2 .entrydate_2 {
+	position: absolute;
+	left: 21.64775390625px;
+	top: 11.323925781249999px;
+	width: 99.56816406249999px;
+	height: 11.13466796875px;
+	color: rgba(17,17,17,1.00);
+	font-family: Mulish;
+	font-size: 11.399999999999999px;
+	font-weight: 700;
+	line-height: 14.306999492645263px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_2 .Rectangle776_2 {
+	position: absolute;
+	left: 25.167578125px;
+	top: 80.52919921875px;
+	width: 146.42802734375px;
+	height: 75.49716796874999px;
+	background: rgba(238,238,238,1.00);
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_2 .AplacewhereIfeelcomfortableis {
+	position: absolute;
+	left: 35.10732421875px;
+	top: 82.6091796875px;
+	width: 135.82587890624998px;
+	height: 80.81308593749999px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 12.825px;
+	font-weight: 400;
+	line-height: 16.09537420272827px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_2 .ButtonExploreActive_2 {
+	position: absolute;
+	left: 104.42021484374999px;
+	top: 36.491503906249996px;
+	width: 75.05px;
+	height: 34.199999999999996px;
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_2 .ButtonExploreActive_2 .Group7_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 75.05px;
+	height: 34.199999999999996px;
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_2 .ButtonExploreActive_2 .Group7_2 .Frame5_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 75.05px;
+	height: 34.199999999999996px;
+	display: flex;
+	padding-top: 5.699999999999999px;
+	padding-right: 18.05px;
+	padding-bottom: 5.699999999999999px;
+	padding-left: 15.2px;
+	box-sizing: border-box;
+	background: rgba(255,221,100,1.00);
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_2 .ButtonExploreActive_2 .Group7_2 .Frame5_2 .Prompted_1 {
+	position: relative;
+	flex: none;
+	margin-right: 3.8px;
+	width: 41.8px;
+	height: 22.799999999999997px;
+	color: rgba(0,0,0,1.00);
+	font-family: Lato;
+	font-size: 9.5px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_3 {
+	position: absolute;
+	left: 862.5999999999999px;
+	top: 127.3px;
+	width: 190px;
+	height: 190px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_3 .Rectangle36_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 190px;
+	height: 190px;
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_3 .entrydate_3 {
+	position: absolute;
+	left: 21.645898437499998px;
+	top: 11.323925781249999px;
+	width: 99.56816406249999px;
+	height: 11.13466796875px;
+	color: rgba(17,17,17,1.00);
+	font-family: Mulish;
+	font-size: 11.399999999999999px;
+	font-weight: 700;
+	line-height: 14.306999492645263px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_3 .Rectangle776_3 {
+	position: absolute;
+	left: 25.167578125px;
+	top: 80.52919921875px;
+	width: 146.42802734375px;
+	height: 75.49716796874999px;
+	background: rgba(238,238,238,1.00);
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_3 .Workwassuperbusytoday {
+	position: absolute;
+	left: 35.656542968749996px;
+	top: 83.04521484375px;
+	width: 126.06611328125px;
+	height: 72.979296875px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 12.825px;
+	font-weight: 400;
+	line-height: 16.09537420272827px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_3 .ButtonExploreActive_3 {
+	position: absolute;
+	left: 101.87080078125px;
+	top: 21.39169921875px;
+	width: 86.45px;
+	height: 34.199999999999996px;
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_3 .ButtonExploreActive_3 .Group7_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 86.45px;
+	height: 34.199999999999996px;
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_3 .ButtonExploreActive_3 .Group7_3 .Frame5_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 86.45px;
+	height: 34.199999999999996px;
+	display: flex;
+	padding-top: 5.699999999999999px;
+	padding-right: 18.05px;
+	padding-bottom: 5.699999999999999px;
+	padding-left: 15.2px;
+	box-sizing: border-box;
+	background: rgba(255,221,100,1.00);
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_3 .ButtonExploreActive_3 .Group7_3 .Frame5_3 .Unprompted_1 {
+	position: relative;
+	flex: none;
+	margin-right: 3.8px;
+	width: 53.199999999999996px;
+	height: 22.799999999999997px;
+	color: rgba(0,0,0,1.00);
+	font-family: Lato;
+	font-size: 9.5px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_4 {
+	position: absolute;
+	left: 624.15px;
+	top: 375.25px;
+	width: 188.42841796874998px;
+	height: 190px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_4 .Rectangle36_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 188.42841796874998px;
+	height: 190px;
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_4 .entrydate_4 {
+	position: absolute;
+	left: 21.4677734375px;
+	top: 11.323925781249999px;
+	width: 98.7443359375px;
+	height: 11.13466796875px;
+	color: rgba(17,17,17,1.00);
+	font-family: Mulish;
+	font-size: 11.399999999999999px;
+	font-weight: 700;
+	line-height: 14.306999492645263px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_4 .Rectangle776_4 {
+	position: absolute;
+	left: 24.9560546875px;
+	top: 80.52919921875px;
+	width: 145.21640625px;
+	height: 75.49716796874999px;
+	background: rgba(238,238,238,1.00);
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_4 .Todaywasacrazyday_1 {
+	position: absolute;
+	left: 34.816015625px;
+	top: 82.6091796875px;
+	width: 134.70146484375px;
+	height: 80.81308593749999px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 12.825px;
+	font-weight: 400;
+	line-height: 16.09537420272827px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_4 .ButtonExploreActive_4 {
+	position: absolute;
+	left: 99.75px;
+	top: 36.1px;
+	width: 86.45px;
+	height: 34.199999999999996px;
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_4 .ButtonExploreActive_4 .Group7_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 86.45px;
+	height: 34.199999999999996px;
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_4 .ButtonExploreActive_4 .Group7_4 .Frame5_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 86.45px;
+	height: 34.199999999999996px;
+	display: flex;
+	padding-top: 5.699999999999999px;
+	padding-right: 18.05px;
+	padding-bottom: 5.699999999999999px;
+	padding-left: 15.2px;
+	box-sizing: border-box;
+	background: rgba(255,221,100,1.00);
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_4 .ButtonExploreActive_4 .Group7_4 .Frame5_4 .Unprompted_2 {
+	position: relative;
+	flex: none;
+	margin-right: 3.8px;
+	width: 53.199999999999996px;
+	height: 22.799999999999997px;
+	color: rgba(0,0,0,1.00);
+	font-family: Lato;
+	font-size: 9.5px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_5 {
+	position: absolute;
+	left: 383.79999999999995px;
+	top: 374.29999999999995px;
+	width: 190px;
+	height: 190px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_5 .Rectangle36_5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 190px;
+	height: 190px;
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_5 .entrydate_5 {
+	position: absolute;
+	left: 19.1001953125px;
+	top: 11.323925781249999px;
+	width: 99.56816406249999px;
+	height: 11.13466796875px;
+	color: rgba(17,17,17,1.00);
+	font-family: Mulish;
+	font-size: 11.399999999999999px;
+	font-weight: 700;
+	line-height: 14.306999492645263px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_5 .Rectangle776_5 {
+	position: absolute;
+	left: 25.167578125px;
+	top: 80.52919921875px;
+	width: 146.42802734375px;
+	height: 75.49716796874999px;
+	background: rgba(238,238,238,1.00);
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_5 .Somethingthatmademehappytodaywas_1 {
+	position: absolute;
+	left: 35.10732421875px;
+	top: 82.6091796875px;
+	width: 135.82587890624998px;
+	height: 80.81308593749999px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 12.825px;
+	font-weight: 400;
+	line-height: 16.09537420272827px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_5 .ButtonExploreActive_5 {
+	position: absolute;
+	left: 104.42021484374999px;
+	top: 36.491503906249996px;
+	width: 75.05px;
+	height: 34.199999999999996px;
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_5 .ButtonExploreActive_5 .Group7_5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 75.05px;
+	height: 34.199999999999996px;
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_5 .ButtonExploreActive_5 .Group7_5 .Frame5_5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 75.05px;
+	height: 34.199999999999996px;
+	display: flex;
+	padding-top: 5.699999999999999px;
+	padding-right: 18.05px;
+	padding-bottom: 5.699999999999999px;
+	padding-left: 15.2px;
+	box-sizing: border-box;
+	background: rgba(255,221,100,1.00);
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_5 .ButtonExploreActive_5 .Group7_5 .Frame5_5 .Prompted_2 {
+	position: relative;
+	flex: none;
+	margin-right: 3.8px;
+	width: 41.8px;
+	height: 22.799999999999997px;
+	color: rgba(0,0,0,1.00);
+	font-family: Lato;
+	font-size: 9.5px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_6 {
+	position: absolute;
+	left: 1102.95px;
+	top: 374.29999999999995px;
+	width: 190px;
+	height: 190px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_6 .Rectangle36_6 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 190px;
+	height: 190px;
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_6 .entrydate_6 {
+	position: absolute;
+	left: 21.64775390625px;
+	top: 11.323925781249999px;
+	width: 99.56816406249999px;
+	height: 11.13466796875px;
+	color: rgba(17,17,17,1.00);
+	font-family: Mulish;
+	font-size: 11.399999999999999px;
+	font-weight: 700;
+	line-height: 14.306999492645263px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_6 .Rectangle776_6 {
+	position: absolute;
+	left: 25.167578125px;
+	top: 80.52919921875px;
+	width: 146.42802734375px;
+	height: 75.49716796874999px;
+	background: rgba(238,238,238,1.00);
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_6 .AplacewhereIfeelcomfortableis_1 {
+	position: absolute;
+	left: 35.10732421875px;
+	top: 82.6091796875px;
+	width: 135.82587890624998px;
+	height: 80.81308593749999px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 12.825px;
+	font-weight: 400;
+	line-height: 16.09537420272827px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_6 .ButtonExploreActive_6 {
+	position: absolute;
+	left: 104.42021484374999px;
+	top: 36.491503906249996px;
+	width: 75.05px;
+	height: 34.199999999999996px;
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_6 .ButtonExploreActive_6 .Group7_6 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 75.05px;
+	height: 34.199999999999996px;
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_6 .ButtonExploreActive_6 .Group7_6 .Frame5_6 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 75.05px;
+	height: 34.199999999999996px;
+	display: flex;
+	padding-top: 5.699999999999999px;
+	padding-right: 18.05px;
+	padding-bottom: 5.699999999999999px;
+	padding-left: 15.2px;
+	box-sizing: border-box;
+	background: rgba(255,221,100,1.00);
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_6 .ButtonExploreActive_6 .Group7_6 .Frame5_6 .Prompted_3 {
+	position: relative;
+	flex: none;
+	margin-right: 3.8px;
+	width: 41.8px;
+	height: 22.799999999999997px;
+	color: rgba(0,0,0,1.00);
+	font-family: Lato;
+	font-size: 9.5px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_7 {
+	position: absolute;
+	left: 862.5999999999999px;
+	top: 374.29999999999995px;
+	width: 190px;
+	height: 190px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_7 .Rectangle36_7 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 190px;
+	height: 190px;
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_7 .entrydate_7 {
+	position: absolute;
+	left: 21.645898437499998px;
+	top: 11.323925781249999px;
+	width: 99.56816406249999px;
+	height: 11.13466796875px;
+	color: rgba(17,17,17,1.00);
+	font-family: Mulish;
+	font-size: 11.399999999999999px;
+	font-weight: 700;
+	line-height: 14.306999492645263px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_7 .Rectangle776_7 {
+	position: absolute;
+	left: 25.167578125px;
+	top: 80.52919921875px;
+	width: 146.42802734375px;
+	height: 75.49716796874999px;
+	background: rgba(238,238,238,1.00);
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_7 .Workwassuperbusytoday_1 {
+	position: absolute;
+	left: 35.656542968749996px;
+	top: 83.04521484375px;
+	width: 126.06611328125px;
+	height: 72.979296875px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 12.825px;
+	font-weight: 400;
+	line-height: 16.09537420272827px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_7 .ButtonExploreActive_7 {
+	position: absolute;
+	left: 101.87080078125px;
+	top: 21.39169921875px;
+	width: 86.45px;
+	height: 34.199999999999996px;
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_7 .ButtonExploreActive_7 .Group7_7 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 86.45px;
+	height: 34.199999999999996px;
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_7 .ButtonExploreActive_7 .Group7_7 .Frame5_7 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 86.45px;
+	height: 34.199999999999996px;
+	display: flex;
+	padding-top: 5.699999999999999px;
+	padding-right: 18.05px;
+	padding-bottom: 5.699999999999999px;
+	padding-left: 15.2px;
+	box-sizing: border-box;
+	background: rgba(255,221,100,1.00);
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_7 .ButtonExploreActive_7 .Group7_7 .Frame5_7 .Unprompted_3 {
+	position: relative;
+	flex: none;
+	margin-right: 3.8px;
+	width: 53.199999999999996px;
+	height: 22.799999999999997px;
+	color: rgba(0,0,0,1.00);
+	font-family: Lato;
+	font-size: 9.5px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_8 {
+	position: absolute;
+	left: 143.45px;
+	top: 127.3px;
+	width: 190px;
+	height: 190px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_8 .Rectangle36_8 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 190px;
+	height: 190px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_8 .Rectangle37 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 5.802050781249999px;
+	height: 190px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_8 .Group120 {
+	position: absolute;
+	left: 58.343359375px;
+	top: 71.72314453125px;
+	width: 68.6375px;
+	height: 75.49716796874999px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_8 .Group120 .Vector41 {
+	position: absolute;
+	left: 0px;
+	top: 37.74765625px;
+	width: 68.6375px;
+	height: 0px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_8 .Group120 .Vector42 {
+	position: absolute;
+	left: 34.31875px;
+	top: 0px;
+	width: 0px;
+	height: 75.49716796874999px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_8 .NewEntry {
+	position: absolute;
+	left: 13.726757812499999px;
+	top: 6.2900390625px;
+	width: 149.86064453125px;
+	height: 35.231640625px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 19px;
+	font-weight: 700;
+	line-height: 23.845000362396238px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .HomeBar {
+	position: absolute;
+	left: 554.8px;
+	top: 833.15px;
+	width: 323px;
+	height: 99.75px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .HomeBar .Group47392 {
+	position: absolute;
+	left: 122.55px;
+	top: 0px;
+	width: 77.89999999999999px;
+	height: 77.89999999999999px;
+	border-radius: 53.199999999999996px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .HomeBar .Group47392 .background {
+	position: absolute;
+	left: 47.5%;
+	bottom: 0px;
+	transform: translate(-50%, 0);
+	width: 77.89999999999999px;
+	height: 77.89999999999999px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 53.199999999999996px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .HomeBar .Group47392 .background_1 {
+	position: absolute;
+	left: 47.50113138338414%;
+	bottom: 5.33447265625px;
+	transform: translate(-50%, 0);
+	width: 67.22919921875px;
+	height: 67.22919921875px;
+	background: rgba(255,221,100,1.00);
+	border-radius: 53.199999999999996px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .HomeBar .ButtonHome {
+	position: absolute;
+	left: 146.29999999999998px;
+	top: 19.95px;
+	width: 30.4px;
+	height: 32.3px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .HomeBar .ButtonHome .Home {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 30.4px;
+	height: 32.3px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .HomeBar .ButtonHome .Home .Rectangle2 {
+	position: absolute;
+	left: 2.8499999999999996px;
+	top: 2.375px;
+	width: 30.4px;
+	height: 30.4px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_9 {
+	position: absolute;
+	left: 143.45px;
+	top: 375.25px;
+	width: 190px;
+	height: 190px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_9 .Rectangle36_9 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 190px;
+	height: 190px;
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_9 .entrydate_8 {
+	position: absolute;
+	left: 21.64775390625px;
+	top: 12.58193359375px;
+	width: 99.56816406249999px;
+	height: 11.13466796875px;
+	color: rgba(17,17,17,1.00);
+	font-family: Mulish;
+	font-size: 11.399999999999999px;
+	font-weight: 700;
+	line-height: 14.306999492645263px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_9 .Rectangle776_8 {
+	position: absolute;
+	left: 25.165722656249997px;
+	top: 80.52919921875px;
+	width: 146.42802734375px;
+	height: 75.49716796874999px;
+	background: rgba(238,238,238,1.00);
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_9 .SomethingIdowhenIfeelanxiousis {
+	position: absolute;
+	left: 35.10732421875px;
+	top: 82.6091796875px;
+	width: 135.82587890624998px;
+	height: 80.81308593749999px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 12.825px;
+	font-weight: 400;
+	line-height: 16.09537420272827px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_9 .ButtonExploreActive_8 {
+	position: absolute;
+	left: 104.41650390625px;
+	top: 21.39169921875px;
+	width: 75.05px;
+	height: 34.199999999999996px;
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_9 .ButtonExploreActive_8 .Group7_8 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 75.05px;
+	height: 34.199999999999996px;
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_9 .ButtonExploreActive_8 .Group7_8 .Frame5_8 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 75.05px;
+	height: 34.199999999999996px;
+	display: flex;
+	padding-top: 5.699999999999999px;
+	padding-right: 18.05px;
+	padding-bottom: 5.699999999999999px;
+	padding-left: 15.2px;
+	box-sizing: border-box;
+	background: rgba(255,221,100,1.00);
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_9 .ButtonExploreActive_8 .Group7_8 .Frame5_8 .Prompted_4 {
+	position: relative;
+	flex: none;
+	margin-right: 3.8px;
+	width: 41.8px;
+	height: 22.799999999999997px;
+	color: rgba(0,0,0,1.00);
+	font-family: Lato;
+	font-size: 9.5px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Rectangle36_10 {
+	position: absolute;
+	left: 624.15px;
+	top: 622.25px;
+	width: 188.42841796874998px;
+	height: 190px;
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .entrydate_9 {
+	position: absolute;
+	left: 645.6177734375px;
+	top: 633.57392578125px;
+	width: 98.7443359375px;
+	height: 11.13466796875px;
+	color: rgba(17,17,17,1.00);
+	font-family: Mulish;
+	font-size: 11.399999999999999px;
+	font-weight: 700;
+	line-height: 14.306999492645263px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Rectangle776_9 {
+	position: absolute;
+	left: 649.1060546875px;
+	top: 702.77919921875px;
+	width: 145.21640625px;
+	height: 75.49716796874999px;
+	background: rgba(238,238,238,1.00);
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Todaywasacrazyday_2 {
+	position: absolute;
+	left: 658.966015625px;
+	top: 704.8591796874999px;
+	width: 134.70146484375px;
+	height: 80.81308593749999px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 12.825px;
+	font-weight: 400;
+	line-height: 16.09537420272827px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .ButtonExploreActive_9 {
+	position: absolute;
+	left: 723.9px;
+	top: 658.35px;
+	width: 86.45px;
+	height: 34.199999999999996px;
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .ButtonExploreActive_9 .Group7_9 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 86.45px;
+	height: 34.199999999999996px;
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .ButtonExploreActive_9 .Group7_9 .Frame5_9 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 86.45px;
+	height: 34.199999999999996px;
+	display: flex;
+	padding-top: 5.699999999999999px;
+	padding-right: 18.05px;
+	padding-bottom: 5.699999999999999px;
+	padding-left: 15.2px;
+	box-sizing: border-box;
+	background: rgba(255,221,100,1.00);
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .ButtonExploreActive_9 .Group7_9 .Frame5_9 .Unprompted_4 {
+	position: relative;
+	flex: none;
+	margin-right: 3.8px;
+	width: 53.199999999999996px;
+	height: 22.799999999999997px;
+	color: rgba(0,0,0,1.00);
+	font-family: Lato;
+	font-size: 9.5px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_10 {
+	position: absolute;
+	left: 383.79999999999995px;
+	top: 621.3px;
+	width: 190px;
+	height: 190px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_10 .Rectangle36_11 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 190px;
+	height: 190px;
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_10 .entrydate_10 {
+	position: absolute;
+	left: 19.1001953125px;
+	top: 11.323925781249999px;
+	width: 99.56816406249999px;
+	height: 11.13466796875px;
+	color: rgba(17,17,17,1.00);
+	font-family: Mulish;
+	font-size: 11.399999999999999px;
+	font-weight: 700;
+	line-height: 14.306999492645263px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_10 .Rectangle776_10 {
+	position: absolute;
+	left: 25.167578125px;
+	top: 80.52919921875px;
+	width: 146.42802734375px;
+	height: 75.49716796874999px;
+	background: rgba(238,238,238,1.00);
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_10 .Somethingthatmademehappytodaywas_2 {
+	position: absolute;
+	left: 35.10732421875px;
+	top: 82.6091796875px;
+	width: 135.82587890624998px;
+	height: 80.81308593749999px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 12.825px;
+	font-weight: 400;
+	line-height: 16.09537420272827px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_10 .ButtonExploreActive_10 {
+	position: absolute;
+	left: 104.42021484374999px;
+	top: 36.491503906249996px;
+	width: 75.05px;
+	height: 34.199999999999996px;
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_10 .ButtonExploreActive_10 .Group7_10 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 75.05px;
+	height: 34.199999999999996px;
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_10 .ButtonExploreActive_10 .Group7_10 .Frame5_10 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 75.05px;
+	height: 34.199999999999996px;
+	display: flex;
+	padding-top: 5.699999999999999px;
+	padding-right: 18.05px;
+	padding-bottom: 5.699999999999999px;
+	padding-left: 15.2px;
+	box-sizing: border-box;
+	background: rgba(255,221,100,1.00);
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_10 .ButtonExploreActive_10 .Group7_10 .Frame5_10 .Prompted_5 {
+	position: relative;
+	flex: none;
+	margin-right: 3.8px;
+	width: 41.8px;
+	height: 22.799999999999997px;
+	color: rgba(0,0,0,1.00);
+	font-family: Lato;
+	font-size: 9.5px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_11 {
+	position: absolute;
+	left: 1102.95px;
+	top: 623.1999999999999px;
+	width: 190px;
+	height: 190px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_11 .Rectangle36_12 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 190px;
+	height: 190px;
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_11 .entrydate_11 {
+	position: absolute;
+	left: 21.64775390625px;
+	top: 11.323925781249999px;
+	width: 99.56816406249999px;
+	height: 11.13466796875px;
+	color: rgba(17,17,17,1.00);
+	font-family: Mulish;
+	font-size: 11.399999999999999px;
+	font-weight: 700;
+	line-height: 14.306999492645263px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_11 .Rectangle776_11 {
+	position: absolute;
+	left: 25.167578125px;
+	top: 80.52919921875px;
+	width: 146.42802734375px;
+	height: 75.49716796874999px;
+	background: rgba(238,238,238,1.00);
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_11 .AplacewhereIfeelcomfortableis_2 {
+	position: absolute;
+	left: 35.10732421875px;
+	top: 82.6091796875px;
+	width: 135.82587890624998px;
+	height: 80.81308593749999px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 12.825px;
+	font-weight: 400;
+	line-height: 16.09537420272827px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_11 .ButtonExploreActive_11 {
+	position: absolute;
+	left: 104.42021484374999px;
+	top: 36.491503906249996px;
+	width: 75.05px;
+	height: 34.199999999999996px;
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_11 .ButtonExploreActive_11 .Group7_11 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 75.05px;
+	height: 34.199999999999996px;
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_11 .ButtonExploreActive_11 .Group7_11 .Frame5_11 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 75.05px;
+	height: 34.199999999999996px;
+	display: flex;
+	padding-top: 5.699999999999999px;
+	padding-right: 18.05px;
+	padding-bottom: 5.699999999999999px;
+	padding-left: 15.2px;
+	box-sizing: border-box;
+	background: rgba(255,221,100,1.00);
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_11 .ButtonExploreActive_11 .Group7_11 .Frame5_11 .Prompted_6 {
+	position: relative;
+	flex: none;
+	margin-right: 3.8px;
+	width: 41.8px;
+	height: 22.799999999999997px;
+	color: rgba(0,0,0,1.00);
+	font-family: Lato;
+	font-size: 9.5px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_12 {
+	position: absolute;
+	left: 862.5999999999999px;
+	top: 621.3px;
+	width: 190px;
+	height: 190px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_12 .Rectangle36_13 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 190px;
+	height: 190px;
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_12 .entrydate_12 {
+	position: absolute;
+	left: 21.645898437499998px;
+	top: 11.323925781249999px;
+	width: 99.56816406249999px;
+	height: 11.13466796875px;
+	color: rgba(17,17,17,1.00);
+	font-family: Mulish;
+	font-size: 11.399999999999999px;
+	font-weight: 700;
+	line-height: 14.306999492645263px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_12 .Rectangle776_12 {
+	position: absolute;
+	left: 25.167578125px;
+	top: 80.52919921875px;
+	width: 146.42802734375px;
+	height: 75.49716796874999px;
+	background: rgba(238,238,238,1.00);
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_12 .Workwassuperbusytoday_2 {
+	position: absolute;
+	left: 35.656542968749996px;
+	top: 83.04521484375px;
+	width: 126.06611328125px;
+	height: 72.979296875px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 12.825px;
+	font-weight: 400;
+	line-height: 16.09537420272827px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_12 .ButtonExploreActive_12 {
+	position: absolute;
+	left: 101.87080078125px;
+	top: 21.39169921875px;
+	width: 86.45px;
+	height: 34.199999999999996px;
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_12 .ButtonExploreActive_12 .Group7_12 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 86.45px;
+	height: 34.199999999999996px;
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_12 .ButtonExploreActive_12 .Group7_12 .Frame5_12 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 86.45px;
+	height: 34.199999999999996px;
+	display: flex;
+	padding-top: 5.699999999999999px;
+	padding-right: 18.05px;
+	padding-bottom: 5.699999999999999px;
+	padding-left: 15.2px;
+	box-sizing: border-box;
+	background: rgba(255,221,100,1.00);
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_12 .ButtonExploreActive_12 .Group7_12 .Frame5_12 .Unprompted_5 {
+	position: relative;
+	flex: none;
+	margin-right: 3.8px;
+	width: 53.199999999999996px;
+	height: 22.799999999999997px;
+	color: rgba(0,0,0,1.00);
+	font-family: Lato;
+	font-size: 9.5px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_13 {
+	position: absolute;
+	left: 143.45px;
+	top: 622.25px;
+	width: 190px;
+	height: 190px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_13 .Rectangle36_14 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 190px;
+	height: 190px;
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_13 .entrydate_13 {
+	position: absolute;
+	left: 21.64775390625px;
+	top: 12.58193359375px;
+	width: 99.56816406249999px;
+	height: 11.13466796875px;
+	color: rgba(17,17,17,1.00);
+	font-family: Mulish;
+	font-size: 11.399999999999999px;
+	font-weight: 700;
+	line-height: 14.306999492645263px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_13 .Rectangle776_13 {
+	position: absolute;
+	left: 25.165722656249997px;
+	top: 80.52919921875px;
+	width: 146.42802734375px;
+	height: 75.49716796874999px;
+	background: rgba(238,238,238,1.00);
+	border-radius: 9.5px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_13 .SomethingIdowhenIfeelanxiousis_1 {
+	position: absolute;
+	left: 35.10732421875px;
+	top: 82.6091796875px;
+	width: 135.82587890624998px;
+	height: 80.81308593749999px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 12.825px;
+	font-weight: 400;
+	line-height: 16.09537420272827px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_13 .ButtonExploreActive_13 {
+	position: absolute;
+	left: 104.41650390625px;
+	top: 21.39169921875px;
+	width: 75.05px;
+	height: 34.199999999999996px;
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_13 .ButtonExploreActive_13 .Group7_13 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 75.05px;
+	height: 34.199999999999996px;
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_13 .ButtonExploreActive_13 .Group7_13 .Frame5_13 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 75.05px;
+	height: 34.199999999999996px;
+	display: flex;
+	padding-top: 5.699999999999999px;
+	padding-right: 18.05px;
+	padding-bottom: 5.699999999999999px;
+	padding-left: 15.2px;
+	box-sizing: border-box;
+	background: rgba(255,221,100,1.00);
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Retangle_13 .ButtonExploreActive_13 .Group7_13 .Frame5_13 .Prompted_7 {
+	position: relative;
+	flex: none;
+	margin-right: 3.8px;
+	width: 41.8px;
+	height: 22.799999999999997px;
+	color: rgba(0,0,0,1.00);
+	font-family: Lato;
+	font-size: 9.5px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.ThoughtsandEmotinsJournaling_1_ThoughtsandEmotinsJournaling .Rectangle781 {
+	position: absolute;
+	left: 1244.5px;
+	top: -12.35px;
+	width: 166.25px;
+	height: 139.65px;
+	object-fit: cover;
+	overflow: hidden;
+}

@@ -1,0 +1,14 @@
+
+.Eye_Eye {
+	width: 67.462890625px;
+	height: 21.2939453125px;
+}
+.Eye_Eye .Eye_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	overflow: hidden;
+}

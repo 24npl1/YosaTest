@@ -1,0 +1,129 @@
+
+.ThoughtsandEmotionsWorrySheet_ThoughtsandEmotionsWorrySheet {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+	mix-blend-mode: normal;
+}
+.ThoughtsandEmotionsWorrySheet_ThoughtsandEmotionsWorrySheet .HomeBar {
+	position: absolute;
+	left: 556.6999999999999px;
+	top: 1336.6499999999999px;
+	width: 323px;
+	height: 99.75px;
+}
+.ThoughtsandEmotionsWorrySheet_ThoughtsandEmotionsWorrySheet .HomeBar .Group47393 {
+	position: absolute;
+	left: 122.55px;
+	top: 0px;
+	width: 77.89999999999999px;
+	height: 77.89999999999999px;
+	border-radius: 53.199999999999996px;
+}
+.ThoughtsandEmotionsWorrySheet_ThoughtsandEmotionsWorrySheet .HomeBar .Group47393 .background {
+	position: absolute;
+	left: 47.5%;
+	bottom: 0px;
+	transform: translate(-50%, 0);
+	width: 77.89999999999999px;
+	height: 77.89999999999999px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 53.199999999999996px;
+}
+.ThoughtsandEmotionsWorrySheet_ThoughtsandEmotionsWorrySheet .HomeBar .Group47393 .background_1 {
+	position: absolute;
+	left: 47.5%;
+	bottom: 5.33447265625px;
+	transform: translate(-50%, 0);
+	width: 67.22873535156249px;
+	height: 67.22919921875px;
+	background: rgba(255,221,100,1.00);
+	border-radius: 53.199999999999996px;
+}
+.ThoughtsandEmotionsWorrySheet_ThoughtsandEmotionsWorrySheet .HomeBar .ButtonHome {
+	position: absolute;
+	left: 146.29999999999998px;
+	top: 19.95px;
+	width: 30.4px;
+	height: 32.3px;
+}
+.ThoughtsandEmotionsWorrySheet_ThoughtsandEmotionsWorrySheet .HomeBar .ButtonHome .Home {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 30.4px;
+	height: 32.3px;
+}
+.ThoughtsandEmotionsWorrySheet_ThoughtsandEmotionsWorrySheet .HomeBar .ButtonHome .Home .Rectangle2 {
+	position: absolute;
+	left: 2.8499999999999996px;
+	top: 2.375px;
+	width: 30.4px;
+	height: 30.4px;
+}
+.ThoughtsandEmotionsWorrySheet_ThoughtsandEmotionsWorrySheet .Rectangle1971 {
+	position: absolute;
+	left: 204.25px;
+	top: 0px;
+	width: 1023.15px;
+	height: 1336.6499999999999px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.ThoughtsandEmotionsWorrySheet_ThoughtsandEmotionsWorrySheet .ButtonExploreActive {
+	position: absolute;
+	left: 44.65px;
+	top: 85.5px;
+	width: 84.55px;
+	height: 34.199999999999996px;
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotionsWorrySheet_ThoughtsandEmotionsWorrySheet .ButtonExploreActive .Group7 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 84.55px;
+	height: 34.199999999999996px;
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotionsWorrySheet_ThoughtsandEmotionsWorrySheet .ButtonExploreActive .Group7 .Frame5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 84.55px;
+	height: 34.199999999999996px;
+	display: flex;
+	padding-top: 5.699999999999999px;
+	padding-right: 18.05px;
+	padding-bottom: 5.699999999999999px;
+	padding-left: 15.2px;
+	box-sizing: border-box;
+	background: rgba(255,221,100,1.00);
+	border-radius: 40.85px;
+}
+.ThoughtsandEmotionsWorrySheet_ThoughtsandEmotionsWorrySheet .ButtonExploreActive .Group7 .Frame5 .Back {
+	position: relative;
+	flex: none;
+	margin-right: 3.8px;
+	width: 42.75px;
+	height: 22.799999999999997px;
+	color: rgba(0,0,0,1.00);
+	font-family: Lato;
+	font-size: 13.299999999999999px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.ThoughtsandEmotionsWorrySheet_ThoughtsandEmotionsWorrySheet .Rectangle781 {
+	position: absolute;
+	left: 1227.3999999999999px;
+	top: 0px;
+	width: 209px;
+	height: 171px;
+	object-fit: cover;
+	overflow: hidden;
+}

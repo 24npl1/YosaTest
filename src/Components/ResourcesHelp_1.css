@@ -1,0 +1,108 @@
+
+.ResourcesHelp_1_ResourcesHelp {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(155,191,170,1.00);
+	mix-blend-mode: normal;
+}
+.ResourcesHelp_1_ResourcesHelp .ComingSoon {
+	position: absolute;
+	left: 499.7px;
+	top: 205.2px;
+	width: 437.95px;
+	height: 57px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Mulish;
+	font-size: 45.599999999999994px;
+	font-weight: 900;
+	line-height: 57.22799797058105px;
+}
+.ResourcesHelp_1_ResourcesHelp .Mechanic {
+	position: absolute;
+	left: 502.54999999999995px;
+	top: 300.2px;
+	width: 30.09259259259259%;
+	height: 45.41751527494908%;
+}
+.ResourcesHelp_1_ResourcesHelp .Mechanic .Image {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	overflow: hidden;
+}
+.ResourcesHelp_1_ResourcesHelp .Rectangle781 {
+	position: absolute;
+	left: 1243.55px;
+	top: 4.75px;
+	width: 192.85px;
+	height: 192.85px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.ResourcesHelp_1_ResourcesHelp .HomeBar {
+	position: absolute;
+	left: 556.6999999999999px;
+	top: 833.15px;
+	width: 323px;
+	height: 99.75px;
+}
+.ResourcesHelp_1_ResourcesHelp .HomeBar .Group47392 {
+	position: absolute;
+	left: 122.55px;
+	top: 0px;
+	width: 77.89999999999999px;
+	height: 77.89999999999999px;
+	border-radius: 53.199999999999996px;
+}
+.ResourcesHelp_1_ResourcesHelp .HomeBar .Group47392 .background {
+	position: absolute;
+	left: 47.5%;
+	bottom: 0px;
+	transform: translate(-50%, 0);
+	width: 77.89999999999999px;
+	height: 77.89999999999999px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 53.199999999999996px;
+}
+.ResourcesHelp_1_ResourcesHelp .HomeBar .Group47392 .background_1 {
+	position: absolute;
+	left: 47.5%;
+	bottom: 5.335400390625px;
+	transform: translate(-50%, 0);
+	width: 67.22919921875px;
+	height: 67.22919921875px;
+	background: rgba(255,221,100,1.00);
+	border-radius: 53.199999999999996px;
+}
+.ResourcesHelp_1_ResourcesHelp .HomeBar .ButtonHome {
+	position: absolute;
+	left: 146.29999999999998px;
+	top: 19.95px;
+	width: 30.4px;
+	height: 32.3px;
+}
+.ResourcesHelp_1_ResourcesHelp .HomeBar .ButtonHome .Home {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 30.4px;
+	height: 32.3px;
+}
+.ResourcesHelp_1_ResourcesHelp .HomeBar .ButtonHome .Home .Rectangle2 {
+	position: absolute;
+	left: 2.8499999999999996px;
+	top: 2.375px;
+	width: 30.4px;
+	height: 30.4px;
+}

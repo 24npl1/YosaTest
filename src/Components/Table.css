@@ -1,0 +1,8 @@
+
+.Table_Table {
+	width: 1185px;
+	height: 475px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}

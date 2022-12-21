@@ -1,0 +1,185 @@
+
+.Desktop2_Desktop2 {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(155,191,170,1.00);
+}
+.Desktop2_Desktop2 .Rectangle781 {
+	position: absolute;
+	left: 578.55px;
+	top: 165.29999999999998px;
+	width: 339.15px;
+	height: 228px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Desktop2_Desktop2 .Input {
+	position: absolute;
+	left: 369.54999999999995px;
+	top: 447.83037109375px;
+	width: 48.61111111111111%;
+	height: 4.39453125%;
+}
+.Desktop2_Desktop2 .Input .Rectangle2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(255,255,255,1.00);
+	border-radius: 7.6px;
+}
+.Desktop2_Desktop2 .Input .Email {
+	position: absolute;
+	left: 21.2228515625px;
+	top: 8.854296875px;
+	width: 5.714285714285714%;
+	height: 48.662593346911066%;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 13.299999999999999px;
+	font-weight: 200;
+	line-height: 19.95px;
+}
+.Desktop2_Desktop2 .Input_1 {
+	position: absolute;
+	left: 369.54999999999995px;
+	top: 515.24697265625px;
+	width: 48.61111111111111%;
+	height: 4.39453125%;
+}
+.Desktop2_Desktop2 .Input_1 .Rectangle2_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(255,255,255,1.00);
+	border-radius: 7.6px;
+}
+.Desktop2_Desktop2 .Input_1 .Email_1 {
+	position: absolute;
+	left: 21.2228515625px;
+	top: 8.854296875px;
+	width: 5.034013605442176%;
+	height: 48.662593346911066%;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 13.299999999999999px;
+	font-weight: 200;
+	line-height: 19.95px;
+}
+.Desktop2_Desktop2 .Input_2 {
+	position: absolute;
+	left: 369.54999999999995px;
+	top: 582.66357421875px;
+	width: 48.61111111111111%;
+	height: 4.39453125%;
+}
+.Desktop2_Desktop2 .Input_2 .Rectangle2_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(255,255,255,1.00);
+	border-radius: 7.6px;
+}
+.Desktop2_Desktop2 .Input_2 .FullName {
+	position: absolute;
+	left: 21.2228515625px;
+	top: 8.854296875px;
+	width: 8.979591836734693%;
+	height: 48.662593346911066%;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 13.299999999999999px;
+	font-weight: 200;
+	line-height: 19.95px;
+}
+.Desktop2_Desktop2 .IagreetotheYOSATermsandConditions {
+	position: absolute;
+	left: 527.725px;
+	top: 678.3px;
+	width: 310.65px;
+	height: 22.799999999999997px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 200;
+	line-height: 22.799999999999997px;
+}
+.Desktop2_Desktop2 .AlreadyhaveanaccountSignIn {
+	position: absolute;
+	left: 579.025px;
+	top: 817.9499999999999px;
+	width: 210.89999999999998px;
+	height: 45.599999999999994px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 300;
+	line-height: 22.799999999999997px;
+}
+.Desktop2_Desktop2 .ButtonExploreActive {
+	position: absolute;
+	left: 598.975px;
+	top: 722px;
+	width: 171.95px;
+	height: 75.05px;
+	border-radius: 40.85px;
+}
+.Desktop2_Desktop2 .ButtonExploreActive .Group7 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 171.95px;
+	height: 75.05px;
+	border-radius: 40.85px;
+}
+.Desktop2_Desktop2 .ButtonExploreActive .Group7 .Frame5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 171.95px;
+	height: 75.05px;
+	display: flex;
+	padding-top: 5.699999999999999px;
+	padding-right: 18.05px;
+	padding-bottom: 5.699999999999999px;
+	padding-left: 15.2px;
+	box-sizing: border-box;
+	background: rgba(255,235,163,1.00);
+	border-radius: 40.85px;
+}
+.Desktop2_Desktop2 .ButtonExploreActive .Group7 .Frame5 .SignUp {
+	position: relative;
+	flex: none;
+	margin-right: 3.8px;
+	width: 138.7px;
+	height: 63.65px;
+	color: rgba(0,0,0,1.00);
+	font-family: Lato;
+	font-size: 22.799999999999997px;
+	font-weight: 700;
+	line-height: 22.799999999999997px;
+}

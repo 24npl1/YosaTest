@@ -1,0 +1,20 @@
+
+.Desktop1_Desktop1 {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(155,191,170,1.00);
+}
+.Desktop1_Desktop1 .Rectangle781 {
+	position: absolute;
+	left: 549.1px;
+	top: 352.45px;
+	width: 339.15px;
+	height: 228px;
+	object-fit: cover;
+	overflow: hidden;
+}

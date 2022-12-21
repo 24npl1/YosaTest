@@ -1,0 +1,275 @@
+import React from 'react';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import HomePage from '../Components/index';
+import Openingscreenyosa from '../Components/Openingscreenyosa';
+import Openingscreenyosa_1 from '../Components/Openingscreenyosa_1';
+import Openingscreenyosa_2 from '../Components/Openingscreenyosa_2';
+import Openingscreenyosa_3 from '../Components/Openingscreenyosa_3';
+import HomePagefirstversion from '../Components/HomePagefirstversion';
+import HomePagefirstversion_1 from '../Components/HomePagefirstversion_1';
+import Signup from '../Components/Signup';
+import Signup_1 from '../Components/Signup_1';
+import Signup_2 from '../Components/Signup_2';
+import Signup_3 from '../Components/Signup_3';
+import Signin from '../Components/Signin';
+import ThoughtsandEmotionsNewjournalentryprompted from '../Components/ThoughtsandEmotionsNewjournalentryprompted';
+import ThoughtsandEmotionsNewjournalentryprompted_1 from '../Components/ThoughtsandEmotionsNewjournalentryprompted_1';
+import ThoughtsandEmotionsNewjournalentryprompted_2 from '../Components/ThoughtsandEmotionsNewjournalentryprompted_2';
+import Openingscreenyosa_4 from '../Components/Openingscreenyosa_4';
+import Signup_4 from '../Components/Signup_4';
+import ThoughtsandEmotionsNewjournalentryprompted_3 from '../Components/ThoughtsandEmotionsNewjournalentryprompted_3';
+import ThoughtsandEmotionsNewjournalentryprompted_4 from '../Components/ThoughtsandEmotionsNewjournalentryprompted_4';
+import ThoughtsandEmotionsSymptomLog from '../Components/ThoughtsandEmotionsSymptomLog';
+import ThoughtsandEmotionsCBTFillouts from '../Components/ThoughtsandEmotionsCBTFillouts';
+import ThoughtsandEmotions3ColumnThoughtRecord from '../Components/ThoughtsandEmotions3ColumnThoughtRecord';
+import ThoughtsandEmotions7ColumnThoughtRecord from '../Components/ThoughtsandEmotions7ColumnThoughtRecord';
+import ThoughtsandEmotionsCommonUnhealthyThoughtPatterns from '../Components/ThoughtsandEmotionsCommonUnhealthyThoughtPatterns';
+import ThoughtsandEmotionsCognitiveConceptualization from '../Components/ThoughtsandEmotionsCognitiveConceptualization';
+import ThoughtsandEmotionsCommonUnhealthyThoughtPatterns_1 from '../Components/ThoughtsandEmotionsCommonUnhealthyThoughtPatterns_1';
+import ThoughtsandEmotinsJournaling from '../Components/ThoughtsandEmotinsJournaling';
+import ThoughtsandEmotionsNewjournalentryprompted_5 from '../Components/ThoughtsandEmotionsNewjournalentryprompted_5';
+import ThoughtsandEmotionsMindfulness from '../Components/ThoughtsandEmotionsMindfulness';
+import ThoughtsandEmotionsMindfulness_1 from '../Components/ThoughtsandEmotionsMindfulness_1';
+import ThoughtsandEmotionsMindfulness_2 from '../Components/ThoughtsandEmotionsMindfulness_2';
+import ThoughtsandEmotionsGuidedYoga from '../Components/ThoughtsandEmotionsGuidedYoga';
+import ThoughtsandEmotionsFillouts from '../Components/ThoughtsandEmotionsFillouts';
+import ThoughtsandEmotionsInteractiveGames from '../Components/ThoughtsandEmotionsInteractiveGames';
+import ThoughtsandEmotionsMoodTracker6 from '../Components/ThoughtsandEmotionsMoodTracker6';
+import ThoughtsandEmotionsMoodTracker7 from '../Components/ThoughtsandEmotionsMoodTracker7';
+import ThoughtsandEmotionsMoodTracker8 from '../Components/ThoughtsandEmotionsMoodTracker8';
+import ThoughtsandEmotionsMoodTracker9 from '../Components/ThoughtsandEmotionsMoodTracker9';
+import ThoughtsandEmotionsMoodTracker10 from '../Components/ThoughtsandEmotionsMoodTracker10';
+import SleepMeditationsleeptrackerentry from '../Components/SleepMeditationsleeptrackerentry';
+import SleepMeditationmeditationhealingbodyscanforsleep from '../Components/SleepMeditationmeditationhealingbodyscanforsleep';
+import SleepMeditationMeditationforAnxietyandstress from '../Components/SleepMeditationMeditationforAnxietyandstress';
+import SleepMeditationYouareenoughsleepmeditation from '../Components/SleepMeditationYouareenoughsleepmeditation';
+import SleepMeditationmeditationhealingbodyscanforsleep_1 from '../Components/SleepMeditationmeditationhealingbodyscanforsleep_1';
+import SleepMeditationmeditationhealingbodyscanforsleep_2 from '../Components/SleepMeditationmeditationhealingbodyscanforsleep_2';
+import SleepMeditationmeditationhealingbodyscanforsleep_3 from '../Components/SleepMeditationmeditationhealingbodyscanforsleep_3';
+import SleepMeditationsleeptracker from '../Components/SleepMeditationsleeptracker';
+import Othersubstancelog from '../Components/Othersubstancelog';
+import SleepMeditationmeditation from '../Components/SleepMeditationmeditation';
+import ResourcesSafetyPlan from '../Components/ResourcesSafetyPlan';
+import ResourcesHelp from '../Components/ResourcesHelp';
+import Othermedicationentry from '../Components/Othermedicationentry';
+import OtherSubstancelogentry from '../Components/OtherSubstancelogentry';
+import Othermedication from '../Components/Othermedication';
+import Openingscreenyosa_5 from '../Components/Openingscreenyosa_5';
+import Signup_5 from '../Components/Signup_5';
+import ThoughtsandEmotionsNewjournalentryprompted_6 from '../Components/ThoughtsandEmotionsNewjournalentryprompted_6';
+import Openingscreenyosa_6 from '../Components/Openingscreenyosa_6';
+import Signup_6 from '../Components/Signup_6';
+import ThoughtsandEmotionsNewjournalentryprompted_7 from '../Components/ThoughtsandEmotionsNewjournalentryprompted_7';
+import Openingscreenyosa_7 from '../Components/Openingscreenyosa_7';
+import Signup_7 from '../Components/Signup_7';
+import ThoughtsandEmotionsNewjournalentryprompted_8 from '../Components/ThoughtsandEmotionsNewjournalentryprompted_8';
+import ThoughtsandEmotionsNewjournalentryprompted_9 from '../Components/ThoughtsandEmotionsNewjournalentryprompted_9';
+import HomePagefirstversion_2 from '../Components/HomePagefirstversion_2';
+import Desktop1 from '../Components/Desktop1';
+import Desktop2 from '../Components/Desktop2';
+import Desktop3 from '../Components/Desktop3';
+import HomePagefirstversion_3 from '../Components/HomePagefirstversion_3';
+import HomePagefirstversion_4 from '../Components/HomePagefirstversion_4';
+import HomePagefirstversion_5 from '../Components/HomePagefirstversion_5';
+import HomePagefirstversion_6 from '../Components/HomePagefirstversion_6';
+import IMac1 from '../Components/iMac1';
+import ThoughtsandEmotinsJournaling_1 from '../Components/ThoughtsandEmotinsJournaling_1';
+import ThoughtsandEmotionsNewjournalentry from '../Components/ThoughtsandEmotionsNewjournalentry';
+import ThoughtsandEmotionsNewjournalentry_1 from '../Components/ThoughtsandEmotionsNewjournalentry_1';
+import ThoughtsandEmotionsMoodTracker1 from '../Components/ThoughtsandEmotionsMoodTracker1';
+import SleepMeditationmeditationhealingbodyscanforsleep_4 from '../Components/SleepMeditationmeditationhealingbodyscanforsleep_4';
+import SleepMeditationmeditationhealingbodyscanforsleep_5 from '../Components/SleepMeditationmeditationhealingbodyscanforsleep_5';
+import SleepMeditationmeditationhealingbodyscanforsleep_6 from '../Components/SleepMeditationmeditationhealingbodyscanforsleep_6';
+import SleepMeditationmeditationhealingbodyscanforsleep_7 from '../Components/SleepMeditationmeditationhealingbodyscanforsleep_7';
+import SleepMeditationmeditationhealingbodyscanforsleep_8 from '../Components/SleepMeditationmeditationhealingbodyscanforsleep_8';
+import SleepMeditationmeditationhealingbodyscanforsleep_9 from '../Components/SleepMeditationmeditationhealingbodyscanforsleep_9';
+import SleepMeditationmeditationhealingbodyscanforsleep_10 from '../Components/SleepMeditationmeditationhealingbodyscanforsleep_10';
+import SleepMeditationmeditationhealingbodyscanforsleep_11 from '../Components/SleepMeditationmeditationhealingbodyscanforsleep_11';
+import ThoughtsandEmotionsMoodTracker3 from '../Components/ThoughtsandEmotionsMoodTracker3';
+import ThoughtsandEmotionsMoodTracker4 from '../Components/ThoughtsandEmotionsMoodTracker4';
+import ThoughtsandEmotionsMoodTracker5 from '../Components/ThoughtsandEmotionsMoodTracker5';
+import ThoughtsandEmotions3ColumnThoughtRecord_1 from '../Components/ThoughtsandEmotions3ColumnThoughtRecord_1';
+import OtherSafetyPlan from '../Components/OtherSafetyPlan';
+import ThoughtsandEmotionsFillDrainmybucket from '../Components/ThoughtsandEmotionsFillDrainmybucket';
+import ThoughtsandEmotions7ColumnThoughtRecord_1 from '../Components/ThoughtsandEmotions7ColumnThoughtRecord_1';
+import ThoughtsandEmotionsCommonUnhealthyThoughtPatterns_2 from '../Components/ThoughtsandEmotionsCommonUnhealthyThoughtPatterns_2';
+import ThoughtsandEmotionsPreparingforTherapy from '../Components/ThoughtsandEmotionsPreparingforTherapy';
+import ThoughtsandEmotionsSymptomLog_1 from '../Components/ThoughtsandEmotionsSymptomLog_1';
+import ThoughtsandEmotionsWorrySheet from '../Components/ThoughtsandEmotionsWorrySheet';
+import ThoughtsandEmotionsAnxietyCopingSkills from '../Components/ThoughtsandEmotionsAnxietyCopingSkills';
+import SleepMeditationsleeptracker_1 from '../Components/SleepMeditationsleeptracker_1';
+import OtherSubstanceLog from '../Components/OtherSubstanceLog';
+import OtherMedicationLog from '../Components/OtherMedicationLog';
+import SleepMeditationsleeptrackerentry_1 from '../Components/SleepMeditationsleeptrackerentry_1';
+import OtherSubstanceLogEntry from '../Components/OtherSubstanceLogEntry';
+import OtherMedicationEntry from '../Components/OtherMedicationEntry';
+import ResourcesHelp_1 from '../Components/ResourcesHelp_1';
+import Notifications from '../Components/notifications';
+import Input from '../Components/Input';
+import CellTypeHeader from '../Components/CellTypeHeader';
+import Property1TableHeaderRow from '../Components/Property1TableHeaderRow';
+import CellTypeRegular from '../Components/CellTypeRegular';
+import Property1TableNormalRow from '../Components/Property1TableNormalRow';
+import Table from '../Components/Table';
+import TypeVeryBadStatusOn from '../Components/TypeVeryBadStatusOn';
+import HeadBrown from '../Components/HeadBrown';
+import MouthSad from '../Components/MouthSad';
+import EyesSad from '../Components/EyesSad';
+import TypeBadStatusOn from '../Components/TypeBadStatusOn';
+import HeadYellow from '../Components/HeadYellow';
+import EyesPlain from '../Components/EyesPlain';
+import TypeNeutralStatusOn from '../Components/TypeNeutralStatusOn';
+import MouthPlain from '../Components/MouthPlain';
+import TypeGoodStatusOn from '../Components/TypeGoodStatusOn';
+import HeadPurple from '../Components/HeadPurple';
+import MouthWideSmile from '../Components/MouthWideSmile';
+import EyesCute from '../Components/EyesCute';
+import TypeVeryGoodStatusOn from '../Components/TypeVeryGoodStatusOn';
+import HeadCream from '../Components/HeadCream';
+import MouthLilSmile from '../Components/MouthLilSmile';
+import EyesClosed from '../Components/EyesClosed';
+import Theme3DIdentityManSkinToneDefault from '../Components/Theme3DIdentityManSkinToneDefault';
+import Eye from '../Components/Eye';
+import Component1 from '../Components/Component1';
+import Table_1 from '../Components/Table_1';
+const RouterDOM = () => {
+	return (
+		<Router>
+			<Switch>
+				<Route exact path="/"><HomePage /></Route>
+				<Route exact path="/openingscreenyosa"><Openingscreenyosa /></Route>
+				<Route exact path="/openingscreenyosa_1"><Openingscreenyosa_1 /></Route>
+				<Route exact path="/openingscreenyosa_2"><Openingscreenyosa_2 /></Route>
+				<Route exact path="/openingscreenyosa_3"><Openingscreenyosa_3 /></Route>
+				<Route exact path="/homepagefirstversion"><HomePagefirstversion /></Route>
+				<Route exact path="/homepagefirstversion_1"><HomePagefirstversion_1 /></Route>
+				<Route exact path="/signup"><Signup /></Route>
+				<Route exact path="/signup_1"><Signup_1 /></Route>
+				<Route exact path="/signup_2"><Signup_2 /></Route>
+				<Route exact path="/signup_3"><Signup_3 /></Route>
+				<Route exact path="/signin"><Signin /></Route>
+				<Route exact path="/thoughtsandemotionsnewjournalentryprompted"><ThoughtsandEmotionsNewjournalentryprompted /></Route>
+				<Route exact path="/thoughtsandemotionsnewjournalentryprompted_1"><ThoughtsandEmotionsNewjournalentryprompted_1 /></Route>
+				<Route exact path="/thoughtsandemotionsnewjournalentryprompted_2"><ThoughtsandEmotionsNewjournalentryprompted_2 /></Route>
+				<Route exact path="/openingscreenyosa_4"><Openingscreenyosa_4 /></Route>
+				<Route exact path="/signup_4"><Signup_4 /></Route>
+				<Route exact path="/thoughtsandemotionsnewjournalentryprompted_3"><ThoughtsandEmotionsNewjournalentryprompted_3 /></Route>
+				<Route exact path="/thoughtsandemotionsnewjournalentryprompted_4"><ThoughtsandEmotionsNewjournalentryprompted_4 /></Route>
+				<Route exact path="/thoughtsandemotionssymptomlog"><ThoughtsandEmotionsSymptomLog /></Route>
+				<Route exact path="/thoughtsandemotionscbtfillouts"><ThoughtsandEmotionsCBTFillouts /></Route>
+				<Route exact path="/thoughtsandemotions3columnthoughtrecord"><ThoughtsandEmotions3ColumnThoughtRecord /></Route>
+				<Route exact path="/thoughtsandemotions7columnthoughtrecord"><ThoughtsandEmotions7ColumnThoughtRecord /></Route>
+				<Route exact path="/thoughtsandemotionscommonunhealthythoughtpatterns"><ThoughtsandEmotionsCommonUnhealthyThoughtPatterns /></Route>
+				<Route exact path="/thoughtsandemotionscognitiveconceptualization"><ThoughtsandEmotionsCognitiveConceptualization /></Route>
+				<Route exact path="/thoughtsandemotionscommonunhealthythoughtpatterns_1"><ThoughtsandEmotionsCommonUnhealthyThoughtPatterns_1 /></Route>
+				<Route exact path="/thoughtsandemotinsjournaling"><ThoughtsandEmotinsJournaling /></Route>
+				<Route exact path="/thoughtsandemotionsnewjournalentryprompted_5"><ThoughtsandEmotionsNewjournalentryprompted_5 /></Route>
+				<Route exact path="/thoughtsandemotionsmindfulness"><ThoughtsandEmotionsMindfulness /></Route>
+				<Route exact path="/thoughtsandemotionsmindfulness_1"><ThoughtsandEmotionsMindfulness_1 /></Route>
+				<Route exact path="/thoughtsandemotionsmindfulness_2"><ThoughtsandEmotionsMindfulness_2 /></Route>
+				<Route exact path="/thoughtsandemotionsguidedyoga"><ThoughtsandEmotionsGuidedYoga /></Route>
+				<Route exact path="/thoughtsandemotionsfillouts"><ThoughtsandEmotionsFillouts /></Route>
+				<Route exact path="/thoughtsandemotionsinteractivegames"><ThoughtsandEmotionsInteractiveGames /></Route>
+				<Route exact path="/thoughtsandemotionsmoodtracker6"><ThoughtsandEmotionsMoodTracker6 /></Route>
+				<Route exact path="/thoughtsandemotionsmoodtracker7"><ThoughtsandEmotionsMoodTracker7 /></Route>
+				<Route exact path="/thoughtsandemotionsmoodtracker8"><ThoughtsandEmotionsMoodTracker8 /></Route>
+				<Route exact path="/thoughtsandemotionsmoodtracker9"><ThoughtsandEmotionsMoodTracker9 /></Route>
+				<Route exact path="/thoughtsandemotionsmoodtracker10"><ThoughtsandEmotionsMoodTracker10 /></Route>
+				<Route exact path="/sleepmeditationsleeptrackerentry"><SleepMeditationsleeptrackerentry /></Route>
+				<Route exact path="/sleepmeditationmeditationhealingbodyscanforsleep"><SleepMeditationmeditationhealingbodyscanforsleep /></Route>
+				<Route exact path="/sleepmeditationmeditationforanxietyandstress"><SleepMeditationMeditationforAnxietyandstress /></Route>
+				<Route exact path="/sleepmeditationyouareenoughsleepmeditation"><SleepMeditationYouareenoughsleepmeditation /></Route>
+				<Route exact path="/sleepmeditationmeditationhealingbodyscanforsleep_1"><SleepMeditationmeditationhealingbodyscanforsleep_1 /></Route>
+				<Route exact path="/sleepmeditationmeditationhealingbodyscanforsleep_2"><SleepMeditationmeditationhealingbodyscanforsleep_2 /></Route>
+				<Route exact path="/sleepmeditationmeditationhealingbodyscanforsleep_3"><SleepMeditationmeditationhealingbodyscanforsleep_3 /></Route>
+				<Route exact path="/sleepmeditationsleeptracker"><SleepMeditationsleeptracker /></Route>
+				<Route exact path="/othersubstancelog"><Othersubstancelog /></Route>
+				<Route exact path="/sleepmeditationmeditation"><SleepMeditationmeditation /></Route>
+				<Route exact path="/resourcessafetyplan"><ResourcesSafetyPlan /></Route>
+				<Route exact path="/resourceshelp"><ResourcesHelp /></Route>
+				<Route exact path="/othermedicationentry"><Othermedicationentry /></Route>
+				<Route exact path="/othersubstancelogentry"><OtherSubstancelogentry /></Route>
+				<Route exact path="/othermedication"><Othermedication /></Route>
+				<Route exact path="/openingscreenyosa_5"><Openingscreenyosa_5 /></Route>
+				<Route exact path="/signup_5"><Signup_5 /></Route>
+				<Route exact path="/thoughtsandemotionsnewjournalentryprompted_6"><ThoughtsandEmotionsNewjournalentryprompted_6 /></Route>
+				<Route exact path="/openingscreenyosa_6"><Openingscreenyosa_6 /></Route>
+				<Route exact path="/signup_6"><Signup_6 /></Route>
+				<Route exact path="/thoughtsandemotionsnewjournalentryprompted_7"><ThoughtsandEmotionsNewjournalentryprompted_7 /></Route>
+				<Route exact path="/openingscreenyosa_7"><Openingscreenyosa_7 /></Route>
+				<Route exact path="/signup_7"><Signup_7 /></Route>
+				<Route exact path="/thoughtsandemotionsnewjournalentryprompted_8"><ThoughtsandEmotionsNewjournalentryprompted_8 /></Route>
+				<Route exact path="/thoughtsandemotionsnewjournalentryprompted_9"><ThoughtsandEmotionsNewjournalentryprompted_9 /></Route>
+				<Route exact path="/homepagefirstversion_2"><HomePagefirstversion_2 /></Route>
+				<Route exact path="/desktop1"><Desktop1 /></Route>
+				<Route exact path="/desktop2"><Desktop2 /></Route>
+				<Route exact path="/desktop3"><Desktop3 /></Route>
+				<Route exact path="/homepagefirstversion_3"><HomePagefirstversion_3 /></Route>
+				<Route exact path="/homepagefirstversion_4"><HomePagefirstversion_4 /></Route>
+				<Route exact path="/homepagefirstversion_5"><HomePagefirstversion_5 /></Route>
+				<Route exact path="/homepagefirstversion_6"><HomePagefirstversion_6 /></Route>
+				<Route exact path="/imac1"><IMac1 /></Route>
+				<Route exact path="/thoughtsandemotinsjournaling_1"><ThoughtsandEmotinsJournaling_1 /></Route>
+				<Route exact path="/thoughtsandemotionsnewjournalentry"><ThoughtsandEmotionsNewjournalentry /></Route>
+				<Route exact path="/thoughtsandemotionsnewjournalentry_1"><ThoughtsandEmotionsNewjournalentry_1 /></Route>
+				<Route exact path="/thoughtsandemotionsmoodtracker1"><ThoughtsandEmotionsMoodTracker1 /></Route>
+				<Route exact path="/sleepmeditationmeditationhealingbodyscanforsleep_4"><SleepMeditationmeditationhealingbodyscanforsleep_4 /></Route>
+				<Route exact path="/sleepmeditationmeditationhealingbodyscanforsleep_5"><SleepMeditationmeditationhealingbodyscanforsleep_5 /></Route>
+				<Route exact path="/sleepmeditationmeditationhealingbodyscanforsleep_6"><SleepMeditationmeditationhealingbodyscanforsleep_6 /></Route>
+				<Route exact path="/sleepmeditationmeditationhealingbodyscanforsleep_7"><SleepMeditationmeditationhealingbodyscanforsleep_7 /></Route>
+				<Route exact path="/sleepmeditationmeditationhealingbodyscanforsleep_8"><SleepMeditationmeditationhealingbodyscanforsleep_8 /></Route>
+				<Route exact path="/sleepmeditationmeditationhealingbodyscanforsleep_9"><SleepMeditationmeditationhealingbodyscanforsleep_9 /></Route>
+				<Route exact path="/sleepmeditationmeditationhealingbodyscanforsleep_10"><SleepMeditationmeditationhealingbodyscanforsleep_10 /></Route>
+				<Route exact path="/sleepmeditationmeditationhealingbodyscanforsleep_11"><SleepMeditationmeditationhealingbodyscanforsleep_11 /></Route>
+				<Route exact path="/thoughtsandemotionsmoodtracker3"><ThoughtsandEmotionsMoodTracker3 /></Route>
+				<Route exact path="/thoughtsandemotionsmoodtracker4"><ThoughtsandEmotionsMoodTracker4 /></Route>
+				<Route exact path="/thoughtsandemotionsmoodtracker5"><ThoughtsandEmotionsMoodTracker5 /></Route>
+				<Route exact path="/thoughtsandemotions3columnthoughtrecord_1"><ThoughtsandEmotions3ColumnThoughtRecord_1 /></Route>
+				<Route exact path="/othersafetyplan"><OtherSafetyPlan /></Route>
+				<Route exact path="/thoughtsandemotionsfilldrainmybucket"><ThoughtsandEmotionsFillDrainmybucket /></Route>
+				<Route exact path="/thoughtsandemotions7columnthoughtrecord_1"><ThoughtsandEmotions7ColumnThoughtRecord_1 /></Route>
+				<Route exact path="/thoughtsandemotionscommonunhealthythoughtpatterns_2"><ThoughtsandEmotionsCommonUnhealthyThoughtPatterns_2 /></Route>
+				<Route exact path="/thoughtsandemotionspreparingfortherapy"><ThoughtsandEmotionsPreparingforTherapy /></Route>
+				<Route exact path="/thoughtsandemotionssymptomlog_1"><ThoughtsandEmotionsSymptomLog_1 /></Route>
+				<Route exact path="/thoughtsandemotionsworrysheet"><ThoughtsandEmotionsWorrySheet /></Route>
+				<Route exact path="/thoughtsandemotionsanxietycopingskills"><ThoughtsandEmotionsAnxietyCopingSkills /></Route>
+				<Route exact path="/sleepmeditationsleeptracker_1"><SleepMeditationsleeptracker_1 /></Route>
+				<Route exact path="/othersubstancelog"><OtherSubstanceLog /></Route>
+				<Route exact path="/othermedicationlog"><OtherMedicationLog /></Route>
+				<Route exact path="/sleepmeditationsleeptrackerentry_1"><SleepMeditationsleeptrackerentry_1 /></Route>
+				<Route exact path="/othersubstancelogentry"><OtherSubstanceLogEntry /></Route>
+				<Route exact path="/othermedicationentry"><OtherMedicationEntry /></Route>
+				<Route exact path="/resourceshelp_1"><ResourcesHelp_1 /></Route>
+				<Route exact path="/notifications"><Notifications /></Route>
+				<Route exact path="/input"><Input /></Route>
+				<Route exact path="/celltypeheader"><CellTypeHeader /></Route>
+				<Route exact path="/property1tableheaderrow"><Property1TableHeaderRow /></Route>
+				<Route exact path="/celltyperegular"><CellTypeRegular /></Route>
+				<Route exact path="/property1tablenormalrow"><Property1TableNormalRow /></Route>
+				<Route exact path="/table"><Table /></Route>
+				<Route exact path="/typeverybadstatuson"><TypeVeryBadStatusOn /></Route>
+				<Route exact path="/headbrown"><HeadBrown /></Route>
+				<Route exact path="/mouthsad"><MouthSad /></Route>
+				<Route exact path="/eyessad"><EyesSad /></Route>
+				<Route exact path="/typebadstatuson"><TypeBadStatusOn /></Route>
+				<Route exact path="/headyellow"><HeadYellow /></Route>
+				<Route exact path="/eyesplain"><EyesPlain /></Route>
+				<Route exact path="/typeneutralstatuson"><TypeNeutralStatusOn /></Route>
+				<Route exact path="/mouthplain"><MouthPlain /></Route>
+				<Route exact path="/typegoodstatuson"><TypeGoodStatusOn /></Route>
+				<Route exact path="/headpurple"><HeadPurple /></Route>
+				<Route exact path="/mouthwidesmile"><MouthWideSmile /></Route>
+				<Route exact path="/eyescute"><EyesCute /></Route>
+				<Route exact path="/typeverygoodstatuson"><TypeVeryGoodStatusOn /></Route>
+				<Route exact path="/headcream"><HeadCream /></Route>
+				<Route exact path="/mouthlilsmile"><MouthLilSmile /></Route>
+				<Route exact path="/eyesclosed"><EyesClosed /></Route>
+				<Route exact path="/theme3didentitymanskintonedefault"><Theme3DIdentityManSkinToneDefault /></Route>
+				<Route exact path="/eye"><Eye /></Route>
+				<Route exact path="/component1"><Component1 /></Route>
+				<Route exact path="/table_1"><Table_1 /></Route>
+			</Switch>
+		</Router>
+	);
+}
+export default RouterDOM;

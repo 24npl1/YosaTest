@@ -1,0 +1,191 @@
+
+.OtherSubstanceLogEntry_OtherSubstanceLogEntry {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(155,191,170,1.00);
+	mix-blend-mode: normal;
+}
+.OtherSubstanceLogEntry_OtherSubstanceLogEntry .Rectangle780 {
+	position: absolute;
+	left: 1232.1499999999999px;
+	top: 0px;
+	width: 192.85px;
+	height: 192.85px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.OtherSubstanceLogEntry_OtherSubstanceLogEntry .HomeBar {
+	position: absolute;
+	left: 556.6999999999999px;
+	top: 833.15px;
+	width: 323px;
+	height: 99.75px;
+}
+.OtherSubstanceLogEntry_OtherSubstanceLogEntry .HomeBar .Group47392 {
+	position: absolute;
+	left: 122.55px;
+	top: 0px;
+	width: 77.89999999999999px;
+	height: 77.89999999999999px;
+	border-radius: 53.199999999999996px;
+}
+.OtherSubstanceLogEntry_OtherSubstanceLogEntry .HomeBar .Group47392 .background {
+	position: absolute;
+	left: 47.5%;
+	bottom: 0px;
+	transform: translate(-50%, 0);
+	width: 77.89999999999999px;
+	height: 77.89999999999999px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 53.199999999999996px;
+}
+.OtherSubstanceLogEntry_OtherSubstanceLogEntry .HomeBar .Group47392 .background_1 {
+	position: absolute;
+	left: 47.50113138338414%;
+	bottom: 5.335400390625px;
+	transform: translate(-50%, 0);
+	width: 67.22919921875px;
+	height: 67.22919921875px;
+	background: rgba(255,221,100,1.00);
+	border-radius: 53.199999999999996px;
+}
+.OtherSubstanceLogEntry_OtherSubstanceLogEntry .HomeBar .ButtonHome {
+	position: absolute;
+	left: 146.29999999999998px;
+	top: 19.95px;
+	width: 30.4px;
+	height: 32.3px;
+}
+.OtherSubstanceLogEntry_OtherSubstanceLogEntry .HomeBar .ButtonHome .Home {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 30.4px;
+	height: 32.3px;
+}
+.OtherSubstanceLogEntry_OtherSubstanceLogEntry .HomeBar .ButtonHome .Home .Rectangle2 {
+	position: absolute;
+	left: 2.8499999999999996px;
+	top: 2.375px;
+	width: 30.4px;
+	height: 30.4px;
+}
+.OtherSubstanceLogEntry_OtherSubstanceLogEntry .Retangle {
+	position: absolute;
+	left: 177.65px;
+	top: 192.85px;
+	width: 1086.8px;
+	height: 619.4px;
+}
+.OtherSubstanceLogEntry_OtherSubstanceLogEntry .Retangle .Rectangle36 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1086.8px;
+	height: 619.4px;
+}
+.OtherSubstanceLogEntry_OtherSubstanceLogEntry .Retangle .entrydate {
+	position: absolute;
+	left: 75.71611328125px;
+	top: 36.297607421875px;
+	width: 674.87109375px;
+	height: 36.297607421875px;
+	color: rgba(17,17,17,1.00);
+	font-family: Mulish;
+	font-size: 19px;
+	font-weight: 700;
+	line-height: 23.845000362396238px;
+}
+.OtherSubstanceLogEntry_OtherSubstanceLogEntry .Retangle .Rectangle37 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 33.18505859375px;
+	height: 619.4px;
+}
+.OtherSubstanceLogEntry_OtherSubstanceLogEntry .Retangle .Rectangle776 {
+	position: absolute;
+	left: 118.51249999999999px;
+	top: 97.18388671874999px;
+	width: 862.5183593749999px;
+	height: 492.94423828124997px;
+	background: rgba(238,238,238,1.00);
+}
+.OtherSubstanceLogEntry_OtherSubstanceLogEntry .ButtonExploreActive {
+	position: absolute;
+	left: 63.65px;
+	top: 95.94999999999999px;
+	width: 84.55px;
+	height: 34.199999999999996px;
+	border-radius: 40.85px;
+}
+.OtherSubstanceLogEntry_OtherSubstanceLogEntry .ButtonExploreActive .Group7 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 84.55px;
+	height: 34.199999999999996px;
+	border-radius: 40.85px;
+}
+.OtherSubstanceLogEntry_OtherSubstanceLogEntry .ButtonExploreActive .Group7 .Frame5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 84.55px;
+	height: 34.199999999999996px;
+	display: flex;
+	padding-top: 5.699999999999999px;
+	padding-right: 18.05px;
+	padding-bottom: 5.699999999999999px;
+	padding-left: 15.2px;
+	box-sizing: border-box;
+	background: rgba(255,221,100,1.00);
+	border-radius: 40.85px;
+}
+.OtherSubstanceLogEntry_OtherSubstanceLogEntry .ButtonExploreActive .Group7 .Frame5 .Back {
+	position: relative;
+	flex: none;
+	margin-right: 3.8px;
+	width: 42.75px;
+	height: 22.799999999999997px;
+	color: rgba(0,0,0,1.00);
+	font-family: Lato;
+	font-size: 13.299999999999999px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.OtherSubstanceLogEntry_OtherSubstanceLogEntry .Howmanydrinksdidyouhavetoday {
+	position: absolute;
+	left: 424.65px;
+	top: 412.29999999999995px;
+	width: 593.75px;
+	height: 32.3px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 30.4px;
+	font-weight: 400;
+	line-height: 38.1519998550415px;
+}
+.OtherSubstanceLogEntry_OtherSubstanceLogEntry .Dropdownboxtoselectnumberofdrinks {
+	position: absolute;
+	left: 641.25px;
+	top: 502.54999999999995px;
+	width: 173.85px;
+	height: 95.94999999999999px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 22.799999999999997px;
+	font-weight: 600;
+	line-height: 28.613998985290525px;
+}

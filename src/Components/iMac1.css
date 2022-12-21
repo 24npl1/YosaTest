@@ -1,0 +1,404 @@
+
+.iMac1_iMac1 {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+	border-radius: 24px;
+}
+.iMac1_iMac1 .Rectangle1 {
+	position: absolute;
+	left: 720px;
+	top: 0px;
+	width: 720px;
+	height: 1024px;
+}
+.iMac1_iMac1 .Rectangle2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 640px;
+	height: 720px;
+	background: linear-gradient(0deg, rgba(255,255,255,1.00), rgba(255,255,255,1.00)),linear-gradient(0deg, rgba(217,217,217,1.00), rgba(217,217,217,1.00));
+}
+.iMac1_iMac1 .Group4 {
+	position: absolute;
+	left: 60px;
+	top: 159px;
+	width: 606px;
+	height: 717.99951171875px;
+}
+.iMac1_iMac1 .Group4 .Group2 {
+	position: absolute;
+	left: 125.619140625px;
+	top: 694.20068359375px;
+	width: 353.59765625px;
+	height: 23.798828125px;
+}
+.iMac1_iMac1 .Group4 .Group2 .Alreadyhaveanaccount {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 272.1767578125px;
+	height: 23.798828125px;
+	color: rgba(155,191,170,1.00);
+	font-family: Inter;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 19.363636016845703px;
+}
+.iMac1_iMac1 .Group4 .Group2 .Signin {
+	position: absolute;
+	left: 281.482421875px;
+	top: 0px;
+	width: 72.115234375px;
+	height: 23.798828125px;
+	color: rgba(50,50,50,1.00);
+	font-family: Inter;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 19.363636016845703px;
+}
+.iMac1_iMac1 .Group4 .GetStarted {
+	position: absolute;
+	left: 156px;
+	top: 0px;
+	width: 289px;
+	height: 73px;
+	color: rgba(105,155,125,1.00);
+	font-family: Inter;
+	font-size: 48px;
+	font-weight: 800;
+	line-height: 58.09090805053711px;
+}
+.iMac1_iMac1 .Group4 .Group1 {
+	position: absolute;
+	left: 15.1220703125px;
+	top: 114.2568359375px;
+	width: 575.7568359375px;
+	height: 274.31298828125px;
+}
+.iMac1_iMac1 .Group4 .Group1 .Name {
+	position: absolute;
+	left: 11.6328125px;
+	top: 0px;
+	width: 58.1572265625px;
+	height: 23.798828125px;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 19.363636016845703px;
+}
+.iMac1_iMac1 .Group4 .Group1 .MarkNorman {
+	position: absolute;
+	left: 11.6328125px;
+	top: 35.07177734375px;
+	width: 140.7412109375px;
+	height: 23.798828125px;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 19.363636016845703px;
+}
+.iMac1_iMac1 .Group4 .Group1 .seamusschmidtgmailcom {
+	position: absolute;
+	left: 11.6328125px;
+	top: 140.2880859375px;
+	width: 303.5810546875px;
+	height: 23.798828125px;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 19.363636016845703px;
+}
+.iMac1_iMac1 .Group4 .Group1 .Email {
+	position: absolute;
+	left: 11.6328125px;
+	top: 105.216796875px;
+	width: 55.8310546875px;
+	height: 23.798828125px;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 19.363636016845703px;
+}
+.iMac1_iMac1 .Group4 .Group1 .Password {
+	position: absolute;
+	left: 11.6328125px;
+	top: 210.43359375px;
+	width: 101.193359375px;
+	height: 23.798828125px;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 19.363636016845703px;
+}
+.iMac1_iMac1 .Group4 .Group1 .Line1 {
+	position: absolute;
+	left: 0px;
+	top: 63.8818359375px;
+	width: 568.779296875px;
+	height: 0px;
+	border: 2px solid rgba(0,0,0,1);
+}
+.iMac1_iMac1 .Group4 .Group1 .Line2 {
+	position: absolute;
+	left: 0px;
+	top: 169.09814453125px;
+	width: 568.779296875px;
+	height: 0px;
+	border: 2px solid rgba(0,0,0,1);
+}
+.iMac1_iMac1 .Group4 .Group1 .Line3 {
+	position: absolute;
+	left: 0px;
+	top: 274.31298828125px;
+	width: 568.779296875px;
+	height: 0px;
+	border: 2px solid rgba(0,0,0,1);
+}
+.iMac1_iMac1 .Group4 .Group1 .NewMoon {
+	position: absolute;
+	left: 11.6328125px;
+	top: 250.5146484375px;
+	width: 15.12109375px;
+	height: 11.2734375px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.iMac1_iMac1 .Group4 .Group1 .NewMoon_1 {
+	position: absolute;
+	left: 33.732421875px;
+	top: 250.5146484375px;
+	width: 15.12109375px;
+	height: 11.2734375px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.iMac1_iMac1 .Group4 .Group1 .NewMoon_2 {
+	position: absolute;
+	left: 55.830078125px;
+	top: 250.5146484375px;
+	width: 13.9580078125px;
+	height: 11.2734375px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.iMac1_iMac1 .Group4 .Group1 .NewMoon_3 {
+	position: absolute;
+	left: 76.767578125px;
+	top: 250.5146484375px;
+	width: 15.12109375px;
+	height: 11.2734375px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.iMac1_iMac1 .Group4 .Group1 .NewMoon_4 {
+	position: absolute;
+	left: 98.8671875px;
+	top: 250.5146484375px;
+	width: 15.12109375px;
+	height: 11.2734375px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.iMac1_iMac1 .Group4 .Group1 .NewMoon_5 {
+	position: absolute;
+	left: 120.966796875px;
+	top: 250.5146484375px;
+	width: 15.12109375px;
+	height: 11.2734375px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.iMac1_iMac1 .Group4 .Group1 .NewMoon_6 {
+	position: absolute;
+	left: 143.06640625px;
+	top: 250.5146484375px;
+	width: 13.9580078125px;
+	height: 11.2734375px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.iMac1_iMac1 .Group4 .Group1 .NewMoon_7 {
+	position: absolute;
+	left: 164.00390625px;
+	top: 250.5146484375px;
+	width: 15.12109375px;
+	height: 11.2734375px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.iMac1_iMac1 .Group4 .Group1 .NewMoon_8 {
+	position: absolute;
+	left: 186.103515625px;
+	top: 250.5146484375px;
+	width: 15.12109375px;
+	height: 11.2734375px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.iMac1_iMac1 .Group4 .Group1 .Eye {
+	width: 67.462890625px;
+	height: 21.2939453125px;
+}
+.iMac1_iMac1 .Group4 .Group1 .Eye .Eye_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	overflow: hidden;
+}
+.iMac1_iMac1 .Group4 .Component1 {
+	width: 255.892578125px;
+	height: 56.3662109375px;
+}
+.iMac1_iMac1 .Group4 .Component1 .Rectangle3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(255,221,100,1.00);
+	border-radius: 16px;
+}
+.iMac1_iMac1 .Group4 .Component1 .SignUp {
+	position: absolute;
+	left: 87.236328125px;
+	top: 16.28369140625px;
+	width: 31.818008350061444%;
+	height: 42.22179871446144%;
+	color: rgba(50,50,50,1.00);
+	font-family: Inter;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 19.363636016845703px;
+}
+.iMac1_iMac1 .Group4 .Group3 {
+	position: absolute;
+	left: 0px;
+	top: 542.6376953125px;
+	width: 606px;
+	height: 23.798828125px;
+}
+.iMac1_iMac1 .Group4 .Group3 .Orsignupwith {
+	position: absolute;
+	left: 222.162109375px;
+	top: 0px;
+	width: 160.5146484375px;
+	height: 23.798828125px;
+	color: rgba(155,191,170,1.00);
+	font-family: Inter;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 19.363636016845703px;
+}
+.iMac1_iMac1 .Group4 .Group3 .Line4 {
+	position: absolute;
+	left: 0px;
+	top: 12.52490234375px;
+	width: 195.4091796875px;
+	height: 0px;
+	border: 1px solid rgba(155.390625,191.25,169.73438411951065,1);
+}
+.iMac1_iMac1 .Group4 .Group3 .Line5 {
+	position: absolute;
+	left: 410.5908203125px;
+	top: 12.52490234375px;
+	width: 195.4091796875px;
+	height: 0px;
+	border: 1px solid rgba(155.390625,191.25,169.73438411951065,1);
+}
+.iMac1_iMac1 .Group4 .Group8 {
+	position: absolute;
+	left: 170.984375px;
+	top: 605.27001953125px;
+	width: 262.87109375px;
+	height: 50.10302734375px;
+}
+.iMac1_iMac1 .Group4 .Group8 .Group5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 46.5263671875px;
+	height: 50.10302734375px;
+}
+.iMac1_iMac1 .Group4 .Group8 .Group5 .Ellipse1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 46.5263671875px;
+	height: 50.10302734375px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 50%;
+}
+.iMac1_iMac1 .Group4 .Group8 .Group5 .image1 {
+	position: absolute;
+	left: 5.81640625px;
+	top: 6.26318359375px;
+	width: 34.89453125px;
+	height: 37.5771484375px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.iMac1_iMac1 .Group4 .Group8 .Group6 {
+	position: absolute;
+	left: 107.009765625px;
+	top: 0px;
+	width: 48.8525390625px;
+	height: 50.10302734375px;
+}
+.iMac1_iMac1 .Group4 .Group8 .Group6 .Ellipse2 {
+	position: absolute;
+	left: 1.162109375px;
+	top: 0px;
+	width: 46.5263671875px;
+	height: 50.10302734375px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 50%;
+}
+.iMac1_iMac1 .Group4 .Group8 .Group6 .image2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 48.8525390625px;
+	height: 50.10302734375px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.iMac1_iMac1 .Group4 .Group8 .Group7 {
+	position: absolute;
+	left: 216.345703125px;
+	top: 0px;
+	width: 46.5263671875px;
+	height: 50.10302734375px;
+}
+.iMac1_iMac1 .Group4 .Group8 .Group7 .Ellipse3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 46.5263671875px;
+	height: 50.10302734375px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 50%;
+}
+.iMac1_iMac1 .Group4 .Group8 .Group7 .image3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 46.5263671875px;
+	height: 50.10302734375px;
+	object-fit: cover;
+	overflow: hidden;
+}

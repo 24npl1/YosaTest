@@ -1,0 +1,726 @@
+
+.HomePagefirstversion_4_HomePagefirstversion {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 {
+	position: absolute;
+	left: 35.15px;
+	top: 171px;
+	width: 1332.85px;
+	height: 761.9px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .ThoughtsandEmotions {
+	position: absolute;
+	left: 0px;
+	top: 114.94999999999999px;
+	width: 258.4px;
+	height: 28.5px;
+	color: rgba(89,132,106,1.00);
+	font-family: Mulish;
+	font-size: 22.799999999999997px;
+	font-weight: 700;
+	line-height: 28.613998985290525px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Other {
+	position: absolute;
+	left: 0px;
+	top: 636.5px;
+	width: 57px;
+	height: 26.599999999999998px;
+	color: rgba(89,132,106,1.00);
+	font-family: Roboto;
+	font-size: 22.799999999999997px;
+	font-weight: 500;
+	line-height: 26.71875px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .SleepMeditation {
+	position: absolute;
+	left: 0px;
+	top: 377.15px;
+	width: 247.95px;
+	height: 25.65px;
+	color: rgba(89,132,106,1.00);
+	font-family: Mulish;
+	font-size: 22.799999999999997px;
+	font-weight: 700;
+	line-height: 28.613998985290525px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help {
+	position: absolute;
+	left: 467.4px;
+	top: 165.29999999999998px;
+	width: 180.5px;
+	height: 190px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help .Rectangle1952 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 180.5px;
+	height: 133px;
+	background: rgba(248,248,248,1.00);
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help .Rectangle1953 {
+	position: absolute;
+	left: 0px;
+	top: 133px;
+	width: 180.5px;
+	height: 57px;
+	background: rgba(195,215,203,1.00);
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help .MoodTracker {
+	position: absolute;
+	left: 46.55px;
+	top: 148.2px;
+	width: 88.35px;
+	height: 17.099999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 14.25px;
+	font-weight: 500;
+	line-height: 16.69921875px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_1 {
+	position: absolute;
+	left: 28.5px;
+	top: 165.29999999999998px;
+	width: 180.5px;
+	height: 190px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_1 .Rectangle1952_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 180.5px;
+	height: 133px;
+	background: rgba(248,248,248,1.00);
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_1 .Rectangle1953_1 {
+	position: absolute;
+	left: 0px;
+	top: 133px;
+	width: 180.5px;
+	height: 57px;
+	background: rgba(195,215,203,1.00);
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_1 .Journaling {
+	position: absolute;
+	left: 56.05px;
+	top: 148.2px;
+	width: 68.39999999999999px;
+	height: 17.099999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 14.25px;
+	font-weight: 500;
+	line-height: 16.69921875px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_2 {
+	position: absolute;
+	left: 686.85px;
+	top: 165.29999999999998px;
+	width: 180.5px;
+	height: 190px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_2 .Rectangle1952_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 180.5px;
+	height: 133px;
+	background: rgba(248,248,248,1.00);
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_2 .Rectangle1953_2 {
+	position: absolute;
+	left: 0px;
+	top: 133px;
+	width: 180.5px;
+	height: 57px;
+	background: rgba(195,215,203,1.00);
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_2 .CBTFillouts {
+	position: absolute;
+	left: 52.25px;
+	top: 148.2px;
+	width: 76.95px;
+	height: 17.099999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 14.25px;
+	font-weight: 500;
+	line-height: 16.69921875px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_3 {
+	position: absolute;
+	left: 906.3px;
+	top: 165.29999999999998px;
+	width: 180.5px;
+	height: 190px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_3 .Rectangle1952_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 180.5px;
+	height: 133px;
+	background: rgba(248,248,248,1.00);
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_3 .Rectangle1953_3 {
+	position: absolute;
+	left: 0px;
+	top: 133px;
+	width: 180.5px;
+	height: 57px;
+	background: rgba(195,215,203,1.00);
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_3 .Mindfulness {
+	position: absolute;
+	left: 50.349999999999994px;
+	top: 148.2px;
+	width: 79.8px;
+	height: 17.099999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 14.25px;
+	font-weight: 500;
+	line-height: 16.69921875px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_4 {
+	position: absolute;
+	left: 247.95px;
+	top: 165.29999999999998px;
+	width: 180.5px;
+	height: 190px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_4 .Rectangle1952_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 180.5px;
+	height: 133px;
+	background: rgba(248,248,248,1.00);
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_4 .Rectangle1953_4 {
+	position: absolute;
+	left: 0px;
+	top: 133px;
+	width: 180.5px;
+	height: 57px;
+	background: rgba(195,215,203,1.00);
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_4 .InteractiveGames {
+	position: absolute;
+	left: 32.3px;
+	top: 148.2px;
+	width: 115.89999999999999px;
+	height: 17.099999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 14.25px;
+	font-weight: 500;
+	line-height: 16.69921875px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_5 {
+	position: absolute;
+	left: 247.95px;
+	top: 424.65px;
+	width: 180.5px;
+	height: 190px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_5 .Rectangle1952_5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 180.5px;
+	height: 133px;
+	background: rgba(248,248,248,1.00);
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_5 .Rectangle1953_5 {
+	position: absolute;
+	left: 0px;
+	top: 133px;
+	width: 180.5px;
+	height: 57px;
+	background: rgba(195,215,203,1.00);
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_5 .SleepLog {
+	position: absolute;
+	left: 58.9px;
+	top: 148.2px;
+	width: 63.65px;
+	height: 17.099999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 14.25px;
+	font-weight: 500;
+	line-height: 16.69921875px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_6 {
+	position: absolute;
+	left: 467.4px;
+	top: 424.65px;
+	width: 180.5px;
+	height: 190px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_6 .Rectangle1952_6 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 180.5px;
+	height: 133px;
+	background: rgba(248,248,248,1.00);
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_6 .Rectangle1953_6 {
+	position: absolute;
+	left: 0px;
+	top: 133px;
+	width: 180.5px;
+	height: 57px;
+	background: rgba(195,215,203,1.00);
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_6 .GuidedYoga {
+	position: absolute;
+	left: 50.349999999999994px;
+	top: 148.2px;
+	width: 80.75px;
+	height: 17.099999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 14.25px;
+	font-weight: 500;
+	line-height: 16.69921875px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_7 {
+	position: absolute;
+	left: 28.5px;
+	top: 424.65px;
+	width: 180.5px;
+	height: 190px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_7 .Rectangle1952_7 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 180.5px;
+	height: 133px;
+	background: rgba(248,248,248,1.00);
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_7 .Rectangle1953_7 {
+	position: absolute;
+	left: 0px;
+	top: 133px;
+	width: 180.5px;
+	height: 57px;
+	background: rgba(195,215,203,1.00);
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_7 .Meditation {
+	position: absolute;
+	left: 56.05px;
+	top: 148.2px;
+	width: 69.35px;
+	height: 17.099999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 14.25px;
+	font-weight: 500;
+	line-height: 16.69921875px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_8 {
+	position: absolute;
+	left: 28.5px;
+	top: 684.9499999999999px;
+	width: 180.5px;
+	height: 190px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_8 .Rectangle1952_8 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 180.5px;
+	height: 133px;
+	background: rgba(248,248,248,1.00);
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_8 .Rectangle1953_8 {
+	position: absolute;
+	left: 0px;
+	top: 133px;
+	width: 180.5px;
+	height: 57px;
+	background: rgba(195,215,203,1.00);
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_8 .SubstanceLog {
+	position: absolute;
+	left: 42.75px;
+	top: 148.2px;
+	width: 95px;
+	height: 17.099999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 14.25px;
+	font-weight: 500;
+	line-height: 16.69921875px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_9 {
+	position: absolute;
+	left: 247.95px;
+	top: 684px;
+	width: 180.5px;
+	height: 190px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_9 .Rectangle1952_9 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 180.5px;
+	height: 133px;
+	background: rgba(248,248,248,1.00);
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_9 .Rectangle1953_9 {
+	position: absolute;
+	left: 0px;
+	top: 133px;
+	width: 180.5px;
+	height: 57px;
+	background: rgba(195,215,203,1.00);
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_9 .SafetyPlan {
+	position: absolute;
+	left: 54.15px;
+	top: 148.2px;
+	width: 73.14999999999999px;
+	height: 17.099999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 14.25px;
+	font-weight: 500;
+	line-height: 16.69921875px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_10 {
+	position: absolute;
+	left: 467.4px;
+	top: 684px;
+	width: 180.5px;
+	height: 190px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_10 .Rectangle1952_10 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 180.5px;
+	height: 133px;
+	background: rgba(248,248,248,1.00);
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_10 .Rectangle1953_10 {
+	position: absolute;
+	left: 0px;
+	top: 133px;
+	width: 180.5px;
+	height: 57px;
+	background: rgba(195,215,203,1.00);
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_10 .Medication {
+	position: absolute;
+	left: 54.15px;
+	top: 148.2px;
+	width: 72.2px;
+	height: 17.099999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 14.25px;
+	font-weight: 500;
+	line-height: 16.69921875px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_11 {
+	position: absolute;
+	left: 686.85px;
+	top: 684px;
+	width: 180.5px;
+	height: 190px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_11 .Rectangle1952_11 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 180.5px;
+	height: 133px;
+	background: rgba(248,248,248,1.00);
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_11 .Rectangle1953_11 {
+	position: absolute;
+	left: 0px;
+	top: 133px;
+	width: 180.5px;
+	height: 57px;
+	background: rgba(195,215,203,1.00);
+}
+.HomePagefirstversion_4_HomePagefirstversion .Frame18 .Help_11 .Help_12 {
+	position: absolute;
+	left: 76px;
+	top: 148.2px;
+	width: 29.45px;
+	height: 17.099999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 14.25px;
+	font-weight: 500;
+	line-height: 16.69921875px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Rectangle1973 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1436.3999999999999px;
+	height: 285.95px;
+	background: rgba(255,255,255,1.00);
+}
+.HomePagefirstversion_4_HomePagefirstversion .Affirmations {
+	position: absolute;
+	left: 35.15px;
+	top: 171px;
+	width: 1332.85px;
+	height: 85.5px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Affirmations .Frame8 {
+	position: absolute;
+	left: 0px;
+	top: -0.95px;
+	width: 722px;
+	height: 86.45px;
+	display: flex;
+	padding-top: 5.699999999999999px;
+	padding-right: 18.05px;
+	padding-bottom: 5.699999999999999px;
+	padding-left: 15.2px;
+	box-sizing: border-box;
+	background: rgba(255,235,163,1.00);
+	border-radius: 40.85px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Affirmations .Frame8 .Iamgratefultohavepeopleinmylifewhosupportme {
+	position: relative;
+	flex: none;
+	margin-right: 3.8px;
+	width: 688.75px;
+	height: 45.599999999999994px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Lato;
+	font-size: 28.5px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Affirmations .Frame6 {
+	position: absolute;
+	left: 760px;
+	top: 0px;
+	width: 771.4px;
+	height: 86.45px;
+	display: flex;
+	padding-top: 5.699999999999999px;
+	padding-right: 18.05px;
+	padding-bottom: 5.699999999999999px;
+	padding-left: 15.2px;
+	box-sizing: border-box;
+	background: rgba(255,235,163,1.00);
+	border-radius: 40.85px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Affirmations .Frame6 .Iamcontinuallyevolvingintoastrongerversionofmyself {
+	position: relative;
+	flex: none;
+	margin-right: 3.8px;
+	width: 738.15px;
+	height: 44.65px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Lato;
+	font-size: 28.5px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Affirmations .Frame10 {
+	position: absolute;
+	left: 2147.95px;
+	top: -0.95px;
+	width: 926.25px;
+	height: 86.45px;
+	display: flex;
+	padding-top: 5.699999999999999px;
+	padding-right: 18.05px;
+	padding-bottom: 5.699999999999999px;
+	padding-left: 15.2px;
+	box-sizing: border-box;
+	background: rgba(255,235,163,1.00);
+	border-radius: 40.85px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Affirmations .Frame10 .IamincontrolofmylifeandIchoosetoletgoofnegativebeliefs {
+	position: relative;
+	flex: none;
+	margin-right: 3.8px;
+	width: 893px;
+	height: 45.599999999999994px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Lato;
+	font-size: 30.4px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Affirmations .Frame7 {
+	position: absolute;
+	left: 3763.8999999999996px;
+	top: -0.95px;
+	width: 563.35px;
+	height: 86.45px;
+	display: flex;
+	padding-top: 5.699999999999999px;
+	padding-right: 18.05px;
+	padding-bottom: 5.699999999999999px;
+	padding-left: 15.2px;
+	box-sizing: border-box;
+	background: rgba(255,235,163,1.00);
+	border-radius: 40.85px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Affirmations .Frame7 .Iamonabeautifuljourneytoabetterlife {
+	position: relative;
+	flex: none;
+	margin-right: 3.8px;
+	width: 530.1px;
+	height: 44.65px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Lato;
+	font-size: 28.5px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Affirmations .Frame9 {
+	position: absolute;
+	left: 3112.2px;
+	top: 0px;
+	width: 613.6999999999999px;
+	height: 86.45px;
+	display: flex;
+	padding-top: 5.699999999999999px;
+	padding-right: 18.05px;
+	padding-bottom: 5.699999999999999px;
+	padding-left: 15.2px;
+	box-sizing: border-box;
+	background: rgba(255,235,163,1.00);
+	border-radius: 40.85px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Affirmations .Frame9 .Iamdoingmybestandthatisalwaysenough {
+	position: relative;
+	flex: none;
+	margin-right: 3.8px;
+	width: 580.4499999999999px;
+	height: 44.65px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Lato;
+	font-size: 28.5px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Affirmations .Frame11 {
+	position: absolute;
+	left: 1569.3999999999999px;
+	top: 0px;
+	width: 540.55px;
+	height: 86.45px;
+	display: flex;
+	padding-top: 5.699999999999999px;
+	padding-right: 18.05px;
+	padding-bottom: 5.699999999999999px;
+	padding-left: 15.2px;
+	box-sizing: border-box;
+	background: rgba(255,235,163,1.00);
+	border-radius: 40.85px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Affirmations .Frame11 .Iamproudofmyselfforgettingthisfar {
+	position: relative;
+	flex: none;
+	margin-right: 3.8px;
+	width: 507.29999999999995px;
+	height: 44.65px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Lato;
+	font-size: 28.5px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .HelloAndrew {
+	position: absolute;
+	left: 92.14999999999999px;
+	top: 87.39999999999999px;
+	width: 299.25px;
+	height: 33.25px;
+	color: rgba(122,166,139,1.00);
+	font-family: Lato;
+	font-size: 38px;
+	font-weight: 800;
+	line-height: 22.799999999999997px;
+}
+.HomePagefirstversion_4_HomePagefirstversion .Rectangle781 {
+	position: absolute;
+	left: 1143.8px;
+	top: 0px;
+	width: 191.89999999999998px;
+	height: 171px;
+	object-fit: cover;
+	overflow: hidden;
+}

@@ -1,0 +1,12 @@
+
+.CellTypeRegular_CellTypeRegular {
+	width: 115px;
+	height: 51px;
+	display: flex;
+	padding-top: 16px;
+	padding-right: 20px;
+	padding-bottom: 16px;
+	padding-left: 20px;
+	box-sizing: border-box;
+	border: 1px solid rgba(184.87500607967377,184.87500607967377,184.87500607967377,1);
+}
