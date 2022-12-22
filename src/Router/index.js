@@ -47,12 +47,12 @@ import SleepMeditationmeditationhealingbodyscanforsleep_1 from '../Components/Sl
 import SleepMeditationmeditationhealingbodyscanforsleep_2 from '../Components/SleepMeditationmeditationhealingbodyscanforsleep_2';
 import SleepMeditationmeditationhealingbodyscanforsleep_3 from '../Components/SleepMeditationmeditationhealingbodyscanforsleep_3';
 import SleepMeditationsleeptracker from '../Components/SleepMeditationsleeptracker';
-import Othersubstancelog from '../Components/Othersubstancelog';
+import Othersubstancelog from '../Components/OtherSubstanceLog';
 import SleepMeditationmeditation from '../Components/SleepMeditationmeditation';
 import ResourcesSafetyPlan from '../Components/ResourcesSafetyPlan';
 import ResourcesHelp from '../Components/ResourcesHelp';
-import Othermedicationentry from '../Components/Othermedicationentry';
-import OtherSubstancelogentry from '../Components/OtherSubstancelogentry';
+import Othermedicationentry from '../Components/OtherMedicationEntry';
+import OtherSubstancelogentry from '../Components/OtherSubstanceLogEntry';
 import Othermedication from '../Components/Othermedication';
 import Openingscreenyosa_5 from '../Components/Openingscreenyosa_5';
 import Signup_5 from '../Components/Signup_5';
